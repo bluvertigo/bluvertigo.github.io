@@ -11,8 +11,11 @@ categories:
 ---
 
 Sono aperte le iscrizioni al Laboratorio di Giocoleria "Academy Circus".
+
 **Ti stai annoiando?**
+
 É ora di provare con la Giocoleria.
+
 É facile: basta venire il mercoledì alla Casa Castellana di Sant'Eraclio.
 
 Abbiamo anche ridotto le dosi, per una più facile somministrazione, da oggi una volta alla settimana. Il mercoledì!
