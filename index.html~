@@ -27,6 +27,6 @@ L’unica spesa da sostenere è quella dell’iscrizione annuale di <strong>50 �
 	<div class="col-sm-4 col-sm-pull-8 text-center"><img src="{{ site.baseurl }}/img/giocoliere200.png" /></div>
 <div class="col-sm-12">
 <img src="{{ site.baseurl }}/img/siamo-qui.jpg" class="img-responsive" alt="Dove siamo - Giocoleria Foligno"/><br/>
-<a href="#" target="_blank" class="btn btn-info" role="button">Indicazioni stradali</a>
+<a href="https://www.google.com/maps/d/viewer?ll=42.933427%2C12.72294&spn=0.01571%2C0.025749&hl=it&t=m&msa=0&z=15&source=embed&ie=UTF8&mid=1gO0dxxPH31HwEGKCXAOkKHOOUfs" target="_blank" class="btn btn-info" role="button">Indicazioni stradali</a>
 </div>
 </div>
