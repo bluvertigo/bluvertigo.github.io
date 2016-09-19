@@ -12,7 +12,8 @@ La giocoleria sembra una specialità che appartiene solo agli artisti circensi.<
 Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.<br/>
 Entrare nel modo della mondo della giocoleria vuol dire superare i propri limiti un passo dopo l’altro, senza fretta.<br/>
 Il laboratorio di giocoleria è un’occasione per avvicinarsi a questo meraviglioso mondo è un po’ come tornare bambini, ogni volta si impara qualcosa di nuovo.
-</p>
+</p></div><div class="col-sm-4 col-sm-pull-8 text-center hidden-xs hidden-sm"><img src="{{ site.baseurl }}/img/giocoliere200.png" /></div>
+<div class="col-sm-12">
 <p><h3>Cosa vuol dire essere un trampoliere?</h3>
 Camminare un metro da terra cambia ogni prospettiva. Quando si indossa un paio trampoli è impossibile passare inosservato. Il bello di andare sui trampoli è vincere la paura e “re-imparare” a camminare!
 </p>
@@ -24,9 +25,12 @@ Basta venire una sera alla castellana di Sant’Eraclio, gli incontri si terrann
 <p><h3>Quanto costa?</h3>
 L’unica spesa da sostenere è quella dell’iscrizione annuale di <strong>50 €</strong>. Siamo tutti volontari e il laboratorio ha lo scopo di animare il castello di Sant’Eraclio durante <a href="http:\\www.ilcarnevale.net" target="_blank">il Carnevale.</a></p>
 </div>
-	<div class="col-sm-4 col-sm-pull-8 text-center"><img src="{{ site.baseurl }}/img/giocoliere200.png" /></div>
+	
 <div class="col-sm-12">
+<p>
+<h3>Dove?</h3>
+Siamo a Foligno, in provincia di Perugia. Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
 <img src="{{ site.baseurl }}/img/siamo-qui.jpg" class="img-responsive" alt="Dove siamo - Giocoleria Foligno"/><br/>
-<a href="https://www.google.com/maps/d/viewer?ll=42.933427%2C12.72294&spn=0.01571%2C0.025749&hl=it&t=m&msa=0&z=15&source=embed&ie=UTF8&mid=1gO0dxxPH31HwEGKCXAOkKHOOUfs" target="_blank" class="btn btn-info" role="button">Indicazioni stradali</a>
+<a href="https://www.google.com/maps/d/viewer?ll=42.933427%2C12.72294&spn=0.01571%2C0.025749&hl=it&t=m&msa=0&z=15&source=embed&ie=UTF8&mid=1gO0dxxPH31HwEGKCXAOkKHOOUfs" target="_blank" class="btn btn-info" role="button">Indicazioni stradali</a></p>
 </div>
 </div>
