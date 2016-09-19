@@ -1,0 +1,24 @@
+{
+  "pets": [
+    {
+      "titolo": "Sempre due ci sono...",
+      "autore": "Maestro Yoda",
+      "testo": "N&egrave; pi&ugrave; n&egrave; meno... Un Maestro, e un Apprendista."
+    },
+{
+      "titolo": "No! Provare no!",
+      "autore": "Maestro Yoda",
+      "testo": "Fare, o non fare! Non c'&egrave; provare!"
+    },
+{
+      "titolo": "Nella giocoleria il vostro unico avversario",
+      "autore": "Dave Finnegan - Lo Zen del Juggling",
+      "testo": "&egrave; quello che vedete ogni mattina quando vi guardate allo specchio"
+    },
+{
+      "titolo": "Perch&egrave; sei qui?",
+      "autore": "Dave Finnegan - Lo Zen del Juggling",
+      "testo": "Non ci sono n&egrave; buone n&egrave; cattive ragioni per essere qui. Il fatto che siate qui &egrave; gi&agrave; sufficiente. Scoprirete che delle mete fissate nel vostro passato potrebbero limitare il vostro presente e distorcere il vostro futuro. Quindi, la cosa migliore è rimanre aperti ai cambiamenti. Non importa che siate qui per svago, per addestramento provessionale, per la crescita spirituale, in fuga dalla routie, oppure per la combinazione di tutto ciò. Tutti noi nei prossimi mesi cambieremo ed è questo cambiamento e questa crescita che ci interessano. Sono qui per questo, e non per addestrare dei giocolieri esperti, benchè ciò potrebbe diventare un effetto collaterale."
+    }
+  ]
+}

@@ -1,59 +1,14 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Academy Circus
+subtitle: Laboratorio di Giocoleria e Trampoli promosso dal “Carnevale dei Ragazzi” di S.Eraclio - Anno 2016/2017
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+<div class="row">
+	<div class="col-sm-8 col-sm-push-4"><p>Academy Circus è il laboratorio di Giocoleria e Trampoli promosso dal <a href="http:\\www.ilcarnevale.net" target="_blank">“Carnevale” di S.Eraclio</a>, per frequentare il laboratorio non è richiesta nessuna conoscenza di base, solo il desiderio di divertirsi e mettersi in gioco. Lo scopo del laboratorio è quello di scoprire nuovi attrezzi come palline, clave, poi, trampoli,.. ed esprimere e riscoprire con essi la propria creatività. Il laboratorio, nato per animare le domeniche del Carnevale, è impostato come momento di scambio e condivisione, dove si impara, si prova e ci si diverte insieme.</p>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry">
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags: 
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
+<p>Il laboratorio inizia <strong>mercoledì 5 ottobre 2016</strong>, si proseguirà per tutti i <strong>mercoledì</strong> dalle <strong>21:00</strong> alle <strong>23:00</strong>.</p>
+<p>Le iscrizioni sono aperte da <strong>settembre</strong> fino a tutto dicembre 2016.</p>
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+	<div class="col-sm-4 col-sm-pull-8 text-center"><img src="{{ site.baseurl }}/img/giocoliere200.png" /></div>
+</div>

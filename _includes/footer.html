@@ -2,153 +2,118 @@
   <div class="container beautiful-jekyll-footer">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          {% if site.author.facebook and site.footer-links-active.facebook %}
+        <div class="row">
+          <div class="col-sm-6">
+            <div id="" class="">
+              <i class="fa fa-quote-left"></i> <span class="">Sempre due ci sono…</span><br>
+              <small>Né più né meno… Un Maestro, e un Apprendista.</small><i class="fa fa-quote-right"></i><br>
+              <small><em>Maestro Yoda</em></small>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <ul class="list-inline text-center footer-links">
+              {% if site.author.facebook and site.footer-links-active.facebook %}
+              <li>
+                <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook" target="_blank">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.author.github and site.footer-links-active.github %}
+              <li>
+                <a href="https://github.com/{{ site.author.github }}" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+          {% if site.author.twitter and site.footer-links-active.twitter %}
+              <li>
+                <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+          {% if site.author.email and site.footer-links-active.email %}
+              <li>
+                <a href="mailto:{{ site.author.email }}" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+          {% if site.author.linkedin and site.footer-links-active.linkedin %}
+              <li>
+                <a href="https://linkedin.com/{{ site.author.linkedin }}" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+              <li>
+                <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+          {% if site.footer-links-active.rss %}
           <li>
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.github and site.footer-links-active.github %}
+          <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+          </li>   
+              {% endif %}     
           <li>
-            <a href="https://github.com/{{ site.author.github }}" title="GitHub">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
-          <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.google-plus and site.footer-links-active.google-plus %}
-          <li>
-            <a href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.author.email and site.footer-links-active.email %}
-          <li>
-            <a href="mailto:{{ site.author.email }}" title="Email me">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
-          <li>
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.author.xing and site.footer-links-active.xing %}
-          <li>
-            <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-xing fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-          <li>
-            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.snapchat and site.footer-links-active.snapchat %}
-          <li>
-            <a href="https://www.snapchat.com/add/{{ site.author.snapchat }}" title="Snapchat">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.instagram and site.footer-links-active.instagram %}
-          <li>
-            <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.youtube and site.footer-links-active.youtube %}
-          <li>
-            <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.spotify and site.footer-links-active.spotify %}
-          <li>
-            <a href="https://open.spotify.com/user/{{ site.author.spotify }}" title="Spotify">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		  {% if site.footer-links-active.rss %}
-		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-		  </li>
-          {% endif %}
-        </ul>
+          <a href="http://www.ilcarnevale.net/" title="Carnevale dei ragazzi" target="_blank">
+            <img src="{{ site.baseurl }}/img/carnevale-dei-ragazzi-di-sant-eraclio.png" alt="logo carnevale di santeraclio" class="img-border"/>
+          </a>
+          </li>   
+            </ul>
+          </div>
+        </div>
         <p class="copyright text-muted">
-		  {{ site.author.name }}
+		  <!-- {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
-
+		  
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
+		  {% endif %} -->
+      {% if site.copyright %}
+      <hr/>
+      <p class="text-center"><small>
+        {% for item in site.copyright  %}
+          {{ item }}<br/>
+        {% endfor %}
+      </small></p>
+      {% endif %}      
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
-		<p class="theme-by text-muted">
+		<p class="theme-by text-muted text-center">
 		  Theme by
-		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
 		</p>
+    <p class="text-center"><a href="//www.iubenda.com/privacy-policy/7856607" class="iubenda-black iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
       </div>
     </div>
   </div>

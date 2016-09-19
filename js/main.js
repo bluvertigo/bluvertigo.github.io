@@ -64,6 +64,8 @@ var main = {
     
     // show the big header image	
     main.initImgs();
+
+    main.flickrImg();
   },
   
   initImgs : function() {
@@ -130,6 +132,32 @@ var main = {
 	} else {
 	  $(".img-desc").hide();  
 	}
+  },
+
+  getFlickrUrl : function(photo, size = "z"){
+      return "https://farm"+photo.farm+".staticflickr.com/"+photo.server+"/"+photo.id+"_"+photo.secret+"_"+size+".jpg";
+  },
+
+  flickrImg : function() {
+    var photoserContainer = $('.flickr-album-contaier');
+    var userID = "118958335@N05";
+    var ApiKey = "d38728f2500b44a203b960faed364452";
+    if (photoserContainer.length) {
+      var idPhotoset = photoserContainer.data("photoset");
+      var url = "https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&photoset_id=" + idPhotoset + "&api_key=" + ApiKey + "&user_id=" + userID + "&format=json&jsoncallback=?";
+      
+      $.getJSON(url,
+        function(data){
+          var html = "<div class='masonry-grid'><div class='row'>";
+          $.each(data.photoset.photo, function(i,foto){
+            var smallImg = main.getFlickrUrl(foto);
+            var bigImg = main.getFlickrUrl(foto, "b");
+            html += "<div class='item'><div class='well'><a data-gallery href='"+bigImg+"' target='_blank'><img src='"+smallImg+"' /></a></div></div>"
+          });
+          html += "</div></div>"
+          photoserContainer.append(html);
+        });
+    }
   }
 };
 
