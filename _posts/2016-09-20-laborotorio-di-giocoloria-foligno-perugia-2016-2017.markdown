@@ -13,13 +13,15 @@ categories:
 
 Sono aperte le iscrizioni al Laboratorio di Giocoleria "Academy Circus".
 
+<img src="{{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg" class="img-responsive" alt="Giocoleria Foligno"/>
+
 **Ti stai annoiando?** É ora di provare con la Giocoleria.
 
 **É facile:** basta venire il mercoledì alla Casa Castellana di Sant'Eraclio.
 
 Abbiamo anche ridotto le dosi, per una più facile somministrazione da oggi una volta alla settimana: **Il mercoledì!**
 
-<img src="{{ site.baseurl }}/img/giocoleria_scatola_mini.jpg" class="img-responsive" alt="Giocoleria Foligno"/>
+
 
 
 
