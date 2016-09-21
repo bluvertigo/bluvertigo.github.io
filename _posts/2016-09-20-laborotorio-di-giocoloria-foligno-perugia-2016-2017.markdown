@@ -26,7 +26,7 @@ Il laboratorio di giocoleria è un’occasione per avvicinarsi a questo meravigl
 ## Cosa vuol dire essere un trampoliere?
 Camminare un metro da terra cambia ogni prospettiva. Quando si indossa un paio trampoli è impossibile passare inosservato. Il bello di andare sui trampoli è vincere la paura e “re-imparare” a camminare!
 
-## C’è a chi piace andare sui trampoli e a chi no, a qualcuno piace lanciare le palline o le clave, ad altri usare l’hula hoop e i poi (erroneamente chiamati kiwido). La realtà è che la giocoleria e le arti circensi in generale sono talmente ricche di scelte che chiunque, a suo modo, trova la sua passione.
+C’è a chi piace andare sui trampoli e a chi no, a qualcuno piace lanciare le palline o le clave, ad altri usare l’hula hoop e i poi (erroneamente chiamati kiwido). La realtà è che la giocoleria e le arti circensi in generale sono talmente ricche di scelte che chiunque, a suo modo, trova la sua passione.
 
 ## Come fare per iscriversi?
 Basta venire una sera alla castellana di Sant’Eraclio, gli incontri si terranno ogni mercoledì a partire dal 5 ottobre 2016.
