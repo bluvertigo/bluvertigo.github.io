@@ -16,11 +16,23 @@ Scopri dentro di te **“forze”** che non credevi possibili, sfrutta a pieno l
 
 ![Giocoleria Foligno]({{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg)
 
-**Ti stai annoiando?** É ora di provare con la Giocoleria.
+## Che cos’è la giocoleria?
+La giocoleria sembra una specialità che appartiene solo agli artisti circensi.
+Mai cosa fu più errata!
+Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.
+Entrare nel modo della mondo della giocoleria vuol dire superare i propri limiti un passo dopo l’altro, senza fretta.
+Il laboratorio di giocoleria è un’occasione per avvicinarsi a questo meraviglioso mondo è un po’ come tornare bambini, ogni volta si impara qualcosa di nuovo.
 
-**É facile:** basta venire il mercoledì alla Casa Castellana di Sant'Eraclio.
+## Cosa vuol dire essere un trampoliere?
+Camminare un metro da terra cambia ogni prospettiva. Quando si indossa un paio trampoli è impossibile passare inosservato. Il bello di andare sui trampoli è vincere la paura e “re-imparare” a camminare!
 
-Abbiamo anche ridotto le dosi, per una più facile somministrazione da oggi una volta alla settimana: **Il mercoledì!**
+## C’è a chi piace andare sui trampoli e a chi no, a qualcuno piace lanciare le palline o le clave, ad altri usare l’hula hoop e i poi (erroneamente chiamati kiwido). La realtà è che la giocoleria e le arti circensi in generale sono talmente ricche di scelte che chiunque, a suo modo, trova la sua passione.
+
+## Come fare per iscriversi?
+Basta venire una sera alla castellana di Sant’Eraclio, gli incontri si terranno ogni mercoledì a partire dal 5 ottobre 2016.
+
+## Quanto costa?
+L’unica spesa da sostenere è quella dell’iscrizione annuale di 50 €. Siamo tutti volontari e il laboratorio ha lo scopo di animare il castello di Sant’Eraclio durante il Carnevale.
 
 
 
