@@ -37,7 +37,7 @@ L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. 
 
 ## Dove siamo?
 Siamo a Foligno, in provincia di Perugia.  
-Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
+Per l'esattezza alla Casa Castellana di Sant'Eraclio.
 
 ## Chiedi informazioni
 <form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
