@@ -41,11 +41,3 @@ Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
 ## Non sei convinto?
 Chiedi informazioni
 
-<form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you.html' />
-  <!-- all your input fields here.... -->
-  <input type='text' name='test' class="form-control" />
-  <input type='submit' value='Test form' class="btn btn-lg btn-success" />
-</form>
-
