@@ -17,10 +17,10 @@ Scopri dentro di te **“forze”** che non credevi possibili, sfrutta a pieno l
 ![Giocoleria Foligno]({{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg)
 
 ## Che cos’è la giocoleria?
-La giocoleria sembra una specialità che appartiene solo agli artisti circensi.
-Mai cosa fu più errata!
-Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.
-Entrare nel mondo della giocoleria vuol dire superare i propri limiti un passo dopo l’altro, senza fretta.
+La giocoleria sembra una specialità che appartiene solo agli artisti circensi.  
+Mai cosa fu più errata!  
+Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.  
+Entrare nel mondo della giocoleria vuol dire superare i propri limiti un passo dopo l’altro, senza fretta.  
 Il laboratorio di giocoleria è un’occasione per avvicinarsi a questo meraviglioso mondo è un po’ come tornare bambini, ogni volta si impara qualcosa di nuovo.
 
 ## Cosa vuol dire essere un trampoliere?
@@ -35,7 +35,7 @@ Basta venire una sera alla castellana di **Sant’Eraclio**, gli incontri si ter
 L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. Siamo tutti volontari e il laboratorio ha lo scopo di animare il castello di Sant’Eraclio durante il Carnevale.
 
 ## Dove siamo?
-Siamo a Foligno, in provincia di Perugia.
+Siamo a Foligno, in provincia di Perugia.  
 Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
 
 ## Chiedi informazioni
