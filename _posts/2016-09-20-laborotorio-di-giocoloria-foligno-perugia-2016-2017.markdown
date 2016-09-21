@@ -45,7 +45,7 @@ Chiedi informazioni
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://fooey.com/thank-you.html' />
   <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
+  <input type='text' name='test' class="form-control" />
+  <input type='submit' value='Test form' class="btn btn-lg btn-success" />
 </form>
 
