@@ -34,6 +34,10 @@ Basta venire una sera alla castellana di **Sant’Eraclio**, gli incontri si ter
 ## Quanto costa?
 L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. Siamo tutti volontari e il laboratorio ha lo scopo di animare il castello di Sant’Eraclio durante il Carnevale.
 
+## Dove siamo?
+Siamo a Foligno, in provincia di Perugia.
+Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
+
 
 
 
