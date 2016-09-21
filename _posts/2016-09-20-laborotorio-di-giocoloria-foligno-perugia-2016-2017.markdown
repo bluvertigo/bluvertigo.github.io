@@ -3,7 +3,7 @@ author: andrea.gentili
 comments: false
 date: 2016-09-20 00:12:02+00:00
 layout: post
-title: Giocoleria e Trampoli 2016 / 2017 - Foligno(PG)
+title: Laboratorio di Giocoleria e Trampoli a Foligno (PG)
 redirect_from: "/vieni-a-provare"
 categories:
 - Giocoleria
