@@ -19,7 +19,7 @@ Ti aspettiamo il <strong>mercoledì </strong>dalle <strong>21.00</strong> alle<s
 <br/>
 <small>Visualizza <a href="https://www.google.com/maps/ms?msa=0&amp;msid=204086920937751474759.000491eda0ac5bf3240fb&amp;hl=it&amp;ie=UTF8&amp;t=m&amp;ll=42.933427,12.72294&amp;spn=0.01571,0.025749&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">Laboratorio di Giocoleria e Teatro di Strada</a> in una mappa di dimensioni maggiori</small>
 
-## Chiedi informazioni
+### Chiedi informazioni
 <form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
   <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you' />
   <div class="form-group">
