@@ -37,3 +37,18 @@ L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. 
 ## Dove siamo?
 Siamo a Foligno, in provincia di Perugia.
 Per l'esattezza alla Cassa Castellana di Sant'Eraclio.
+
+## Chiedi informazioni
+<form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
+  <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you' />
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder='Nome' id="name" name='name'>
+  </div>
+  <div class="form-group">
+    <input type="email" required  class="form-control" placeholder='Indirizzo Email' id="email" name='email'>
+  </div>
+  <div class="form-group">
+    <textarea id='message' name='message' placeholder='Messaggio' rows='8' cols='50'  class="form-control" ></textarea>
+  </div>
+  <button type="submit" class="btn btn-default">Invia</button>
+</form>
