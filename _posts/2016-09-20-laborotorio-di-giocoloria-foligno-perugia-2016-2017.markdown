@@ -11,7 +11,7 @@ categories:
 - Corso di giocoleria
 ---
 
-##Che la giocoleria sia con te!##
+## Che la giocoleria sia con te!
 Scopri dentro di te “forze” che non credevi possibili, sfrutta a pieno le tue potenzialità. La giocoleria è questo: quando ci sentiamo giù ci da un bel po’ di autostima quando riuscamo ad imparare un numero che sembrava impossibile; di contro ci mantiene con i piedi per terra, perchè ci ricorda che c’è sempre un limite alle nostre capacità e quando raggiungiamo questo limite non resta che spostarlo più la.
 
 <img src="{{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg" class="img-responsive" alt="Giocoleria Foligno"/>
