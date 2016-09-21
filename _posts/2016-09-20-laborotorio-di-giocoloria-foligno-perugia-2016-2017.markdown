@@ -16,8 +16,6 @@ Scopri dentro di te **“forze”** che non credevi possibili, sfrutta a pieno l
 
 ![Giocoleria Foligno]({{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg)
 
-<img src="{{ site.baseurl }}/img/dal-5-ottobre-a-foligno.jpg" class="img-responsive" alt="Giocoleria Foligno"/>
-
 **Ti stai annoiando?** É ora di provare con la Giocoleria.
 
 **É facile:** basta venire il mercoledì alla Casa Castellana di Sant'Eraclio.
