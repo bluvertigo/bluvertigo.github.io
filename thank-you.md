@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grazie
-subtitle: Laboratorio di giocoleria Academy Circus
+title: Academy Circus
+subtitle: Laboratorio di Giocoleria e Trampoli
 ---
 ### Grazie per il messaggio! 
 Ti risponderò il appena possibile 📬
