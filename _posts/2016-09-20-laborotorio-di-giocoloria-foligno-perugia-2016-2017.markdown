@@ -18,8 +18,9 @@ Scopri dentro di te **“forze”** che non credevi possibili, sfrutta a pieno l
 
 ## Che cos’è la giocoleria?
 La giocoleria sembra una specialità che appartiene solo agli artisti circensi.  
-Mai cosa fu più errata!  
-Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.  
+**Mai cosa fu più errata!**  
+Avvicinarsi alla Giocoleria é facile, basta poco (una pallina ad esempio) e la voglia di mettersi in gioco.
+
 Entrare nel mondo della giocoleria vuol dire superare i propri limiti un passo dopo l’altro, senza fretta.  
 Il laboratorio di giocoleria è un’occasione per avvicinarsi a questo meraviglioso mondo è un po’ come tornare bambini, ogni volta si impara qualcosa di nuovo.
 
