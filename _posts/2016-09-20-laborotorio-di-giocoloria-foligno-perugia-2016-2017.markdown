@@ -29,7 +29,7 @@ Camminare un metro da terra cambia ogni prospettiva. Quando si indossa un paio t
 C’è a chi piace andare sui trampoli e a chi no, a qualcuno piace lanciare le palline o le clave, ad altri usare l’hula hoop e i poi (erroneamente chiamati kiwido). La realtà è che la giocoleria e le arti circensi in generale sono talmente ricche di scelte che chiunque, a suo modo, trova la sua passione.
 
 ## Come fare per iscriversi?
-Basta venire una sera alla castellana di **Sant’Eraclio**, gli incontri si terranno ogni mercoledì a partire dal **5 ottobre 2016**.
+Basta venire una sera alla castellana di **Sant’Eraclio**, gli incontri si terranno ogni **mercoledì** a partire dal **5 ottobre 2016**.
 
 ## Quanto costa?
 L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. Siamo tutti volontari e il laboratorio ha lo scopo di animare il castello di Sant’Eraclio durante il Carnevale.
