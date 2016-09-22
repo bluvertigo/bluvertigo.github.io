@@ -4,7 +4,7 @@ comments: false
 date: 2016-09-20 00:12:02+00:00
 layout: post
 title: Giocoleria e Trampoli a Foligno (PG)
-subtitle: Laboratorio di giocoleria e Trampli svolto a Sant'eraclio di Foligno
+subtitle: Laboratorio di giocoleria e Trampoli dal 5 ottobre
 redirect_from: "/vieni-a-provare"
 fb-img: https://c2.staticflickr.com/6/5710/29746130192_3706e3f342_o.jpg
 categories:
