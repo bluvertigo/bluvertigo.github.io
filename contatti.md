@@ -32,5 +32,5 @@ Ti aspettiamo il <strong>mercoledì </strong>dalle <strong>21.00</strong> alle<s
   <div class="form-group">
     <textarea id='message' name='message' placeholder='Messaggio' rows='8' cols='50'  class="form-control" ></textarea>
   </div>
-  <button type="submit" class="btn btn-default">Invia</button>
+  <button type="submit" class="btn btn-lg btn-default">Invia</button>
 </form>
