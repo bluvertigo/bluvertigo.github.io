@@ -42,6 +42,11 @@ Siamo a Foligno, in provincia di Perugia.
 Per l'esattezza alla Casa Castellana di Sant'Eraclio.
 
 ## Chiedi informazioni
+
+- Andrea 340.9888686
+- Luca 338.1705799
+- info@academycircus.it
+
 <form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
   <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you' />
   <div class="form-group">
