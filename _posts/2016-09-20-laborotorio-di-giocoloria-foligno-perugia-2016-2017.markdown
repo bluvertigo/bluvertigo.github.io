@@ -40,6 +40,9 @@ L’unica spesa da sostenere è quella dell’iscrizione annuale di **50 €**. 
 ## Dove siamo?
 Siamo a Foligno, in provincia di Perugia.  
 Per l'esattezza alla Casa Castellana di Sant'Eraclio.
+<a href="http://apple.co/2cpnLk5" target="_blank"><img width="640" src="{{ site.baseurl }}/img/staticmap.png" alt="Google Map of Academy Circus Sant'Eraclio"></a>
+<br/>
+<small>Visualizza <a href="http://apple.co/2cpnLk5" style="color:#0000FF;text-align:left">Laboratorio di Giocoleria e Teatro di Strada</a> in una mappa di dimensioni maggiori</small>
 
 ## Per informazioni e contatti
 
