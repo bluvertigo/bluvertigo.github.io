@@ -12,6 +12,7 @@ Ti aspettiamo il <strong>mercoledì </strong>dalle <strong>21.00</strong> alle<s
 ### Per informazioni e contatti:
 
 - Andrea 340.9888686
+- Luca 338.1705799
 - info@academycircus.it
 
 ### Dove siamo
