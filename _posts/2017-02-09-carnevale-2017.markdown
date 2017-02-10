@@ -3,7 +3,7 @@ author: andrea.gentili
 comments: false
 date: 2017-02-10 08:12:02+00:00
 layout: post
-title: Arriva il Carnevale
+title: Arriva il Carnevale 2017
 subtitle: Il castello racconta - la Susanna liberata
 categories:
 - Giocoleria
