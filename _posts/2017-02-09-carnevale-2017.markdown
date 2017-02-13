@@ -5,23 +5,22 @@ date: 2017-02-10 08:12:02+00:00
 layout: post
 title: Arriva il Carnevale 2017
 subtitle: la Susanna liberata
-bigimg: https://c1.staticflickr.com/3/2789/32886505865_5929ecd068_b.jpg
 categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
 ---
 
-![Carnevale di sant eraclio 2017](http://www.ilcarnevale.net/wp-content/uploads/2015/08/castello-sant-eraclio.gif)
+<img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/castello-sant-eraclio.gif" class="center-block" />
 
 ## Il castello racconta:
 *"la Susanna liberata"*
 
 All’interno della meravigliosa cornice del castello di Sant’Eraclio vi aspetta “la Susanna liberata”: un percorso che vi accompagnerà in una favola tra giocoleria, trampoli e danza aerea.
 <div class="row">
-<div class="col-sm-4">![Carnevale di sant eraclio 2017](http://www.ilcarnevale.net/wp-content/uploads/2015/08/farfir.gif)</div>
-<div class="col-sm-4">![Carnevale di sant eraclio 2017](http://www.ilcarnevale.net/wp-content/uploads/2015/08/susanna.gif)</div>
-<div class="col-sm-4">![Carnevale di sant eraclio 2017](http://www.ilcarnevale.net/wp-content/uploads/2015/08/sigismondo.gif)</div>
+<div class="col-sm-4"><img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/farfir.gif" class="center-block" /></div>
+<div class="col-sm-4"><img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/susanna.gif" class="center-block" /></div>
+<div class="col-sm-4"><img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/sigismondo.gif"  class="center-block" /></div>
 </div>
 La duchessina Susanna è stata rapita dal perfido drago Farfir, che la tiene prigioniera all’interno del castello di Sant’Eraclio.
 Validi cavalieri, piccoli e grandi, aiuteranno Sigismondo III Duca delle Terre Basse, padre di Susanna, a liberare la duchesina.
