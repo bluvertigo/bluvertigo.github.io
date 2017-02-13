@@ -12,8 +12,10 @@ categories:
 ---
 
 <img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/castello-sant-eraclio.gif" class="center-block" />
+
 ## Il castello racconta:
-*"la Susanna liberata"* 
+*"la Susanna liberata"*
+
 All’interno della meravigliosa cornice del castello di Sant’Eraclio vi aspetta “la Susanna liberata”: un percorso che vi accompagnerà in una favola tra giocoleria, trampoli e danza aerea.
 <div class="row">
 <div class="col-sm-4"><img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/farfir.gif" class="center-block" /></div>
