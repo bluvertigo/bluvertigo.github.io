@@ -5,6 +5,7 @@ date: 2017-02-10 08:12:02+00:00
 layout: post
 title: Arriva il Carnevale 2017
 subtitle: la Susanna liberata
+bigimg: https://c1.staticflickr.com/3/2789/32886505865_5929ecd068_b.jpg
 categories:
 - Giocoleria
 - Trampoli
