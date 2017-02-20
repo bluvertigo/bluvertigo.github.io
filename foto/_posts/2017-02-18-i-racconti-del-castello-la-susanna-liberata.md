@@ -6,5 +6,3 @@ category: foto
 bigimg: https://c1.staticflickr.com/1/707/32166824494_756a4614f6_b.jpg
 ---
 <div class="flickr-album-contaier" data-photoset="72157678956071090"></div>
-
-<small>Foto by <a href="http://www.santeraclio.altervista.org/il-carnevale/carnevale-2017.html" title="Foto by Ugo Lucidi">Ugo Lucidi</a></small>
