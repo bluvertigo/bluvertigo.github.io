@@ -1,22 +1,9 @@
 ---
 layout: page
-title: Titolo della pagina
-subtitle: Sottotitolo della pagina
+title: Academy Circus
+subtitle: Carnevale dei Ragazzi di Sant'Eraclio
 fb-img: https://c2.staticflickr.com/6/5710/29746130192_3706e3f342_o.jpg
 ---
 
-## Chiedi informazioni
+## Ben arrivato!
 
-<form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
-  <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you' />
-  <div class="form-group">
-    <input type="text" class="form-control" placeholder='Nome' id="name" name='name'>
-  </div>
-  <div class="form-group">
-    <input type="email" required  class="form-control" placeholder='Indirizzo Email' id="email" name='email'>
-  </div>
-  <div class="form-group">
-    <textarea id='message' name='message' placeholder='Messaggio' rows='8' cols='50'  class="form-control" ></textarea>
-  </div>
-  <button type="submit" class="btn btn-default">Invia</button>
-</form>
