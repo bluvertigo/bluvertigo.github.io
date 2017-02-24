@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ti aspettiamo domenica
-subtitle: dalle 15:30 al Carnevale di Sant'Eraclio
+title: Carnevale di Sant'Eraclio
+subtitle: dalle ore 15:30 in poi
 ---
 
-## Ben arrivato!
+## Ti aspettiamo domenica 26 febbraio!
 
 Ti aspettiamo domenica per la terza e ultima domenica del Carnevale di Sant'Eraclio.
 
