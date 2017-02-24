@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Carnevale di Sant'Eraclio
-subtitle: dalle ore 15:30 in poi
+title: Domenica 26 febbraio
+subtitle: dalle ore 15:30 in poi al Carnevale di Sant'Eraclio
 ---
 
 ## Ti aspettiamo domenica 26 febbraio!
