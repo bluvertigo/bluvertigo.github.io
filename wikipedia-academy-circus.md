@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Carnevale
-subtitle: di Sant'Eraclio dalle ore 15:30 in poi
+title: I Racconti del Castello
+subtitle: Domenica ore 15:30 al carnevale di Sant'Eraclio
 ---
 
 ## Ti aspettiamo domenica 26 febbraio!
