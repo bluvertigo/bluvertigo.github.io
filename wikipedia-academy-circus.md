@@ -6,8 +6,6 @@ subtitle: Domenica ore 15:30 al carnevale di Sant'Eraclio
 
 ## Ti aspettiamo domenica 26 febbraio!
 
-Ti aspettiamo domenica per la terza e ultima domenica del Carnevale di Sant'Eraclio.
-
 Dalle **15:30** all'interno del castello metteremo in scena una favola itinerante: *"La Susanna Liberata"*.
 All’interno della meravigliosa cornice del castello di Sant’Eraclio vi aspetta *“la Susanna liberata”*: un percorso che vi accompagnerà in una favola tra giocoleria, trampoli e danza aerea.
 
