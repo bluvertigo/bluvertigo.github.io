@@ -10,4 +10,5 @@ categories:
 - Trampoli
 - Corso di giocoleria
 ---
+<img src="{{ site.baseurl }}/img/animazione-agosto.jpg" />
 Stiamo per ricomincare...
