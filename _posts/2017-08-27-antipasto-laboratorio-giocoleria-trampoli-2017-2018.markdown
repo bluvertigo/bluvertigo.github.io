@@ -3,8 +3,8 @@ author: andrea.gentili
 comments: false
 date: 2017-08-27 08:12:02+00:00
 layout: post
-title: Laboratorio di Giocoleria e Trampoli 2017/2018
-subtitle: antipasto di inizio del laboratorio
+title: Sta per iniziare il Laboratorio di Giocoleria e Trampoli
+subtitle: Il laboratiorio iniza il giovedì 28 settembre 2017
 categories:
 - Giocoleria
 - Trampoli
