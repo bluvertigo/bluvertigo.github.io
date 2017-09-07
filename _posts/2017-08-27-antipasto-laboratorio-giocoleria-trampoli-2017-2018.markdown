@@ -4,7 +4,7 @@ comments: false
 date: 2017-08-27 08:12:02+00:00
 layout: post
 title: Sta per iniziare il Laboratorio di Giocoleria e Trampoli
-subtitle: Il laboratiorio iniza il giovedì 28 settembre 2017
+subtitle: Il laboratiorio iniza giovedì 28 settembre 2017
 categories:
 - Giocoleria
 - Trampoli
