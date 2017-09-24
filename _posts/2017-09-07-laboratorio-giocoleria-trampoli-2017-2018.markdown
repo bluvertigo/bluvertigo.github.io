@@ -13,6 +13,8 @@ bigimg:
 ## Che la giocoleria sia con te!
 Scopri dentro di te **“forze”** che non credevi possibili, sfrutta a pieno le tue potenzialità. La giocoleria è questo! Quando ci sentiamo giù ci da un bel po’ di autostima, nel riuscire ad imparare un numero che sembrava impossibile; di contro ci mantiene con i piedi per terra, perchè ci ricorda che c’è sempre un limite alle nostre capacità e quando raggiungiamo questo limite non resta che spostarlo più la.
 
+![Giocoleria Foligno]({{ site.baseurl }}/img/dal-28-settembre-a-foligno.jpg)
+
 ## Che cos’è la giocoleria?
 La giocoleria sembra una specialità che appartiene solo agli artisti circensi.  
 **Mai cosa fu più errata!**  
