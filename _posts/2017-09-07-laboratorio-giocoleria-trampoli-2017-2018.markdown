@@ -7,7 +7,6 @@ categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
-published: false
 bigimg: 
 ---
 
