@@ -7,7 +7,7 @@ categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
-fb-img: https://farm5.staticflickr.com/4437/37283674821_52aa9a6159_o_d.jpg
+fb-img: https://c1.staticflickr.com/5/4437/37283674821_52aa9a6159_o.jpg
 ---
 
 ## Che la giocoleria sia con te!
