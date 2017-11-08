@@ -1,16 +1,15 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2015-05-06 17:21:12+00:00
-layout: post
-link: http://www.academycircus.it/workshop-di-giocoleria-paline-clave-foligno-perugia/
-slug: workshop-di-giocoleria-paline-clave-foligno-perugia
 title: 'Workshop di giocoleria: paline, rimbalzine, clave, manipolazioni di oggetti
   e creazione di routines'
-wordpress_id: 886
+date: 2015-05-06 10:21:12 -07:00
 categories:
 - News
 - Workshop
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/workshop-di-giocoleria-paline-clave-foligno-perugia/
+wordpress_id: 886
 ---
 
 ## Rinviato a data da definire

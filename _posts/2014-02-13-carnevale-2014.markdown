@@ -1,12 +1,6 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2014-02-13 17:46:29+00:00
-layout: post
-link: http://www.academycircus.it/carnevale-2014/
-slug: carnevale-2014
 title: Arriva finalmente il Carnevale
-wordpress_id: 235
+date: 2014-02-13 09:46:29 -08:00
 categories:
 - News
 tags:
@@ -21,6 +15,11 @@ tags:
 - Perugia
 - teatro di strada
 - Trampoli
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/carnevale-2014/
+wordpress_id: 235
 ---
 
 I giocolieri e trampolieri dell'Academy Circus vi aspettano a Sant'Eraclio durante tutte e tre le domeniche del Carnevale.

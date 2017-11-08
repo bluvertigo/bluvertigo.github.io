@@ -1,14 +1,13 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2015-09-03 06:15:58+00:00
-layout: post
-link: http://www.academycircus.it/corso-di-giocoleria-e-trampoli-edizione-2016/
-slug: corso-di-giocoleria-e-trampoli-edizione-2016
 title: laboratorio di Giocoleria e Trampoli - 2015/2016
-wordpress_id: 927
+date: 2015-09-02 23:15:58 -07:00
 categories:
 - Corso di Giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/corso-di-giocoleria-e-trampoli-edizione-2016/
+wordpress_id: 927
 ---
 
 # Laboratorio di Giocoleria e Trampoli

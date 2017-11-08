@@ -1,14 +1,13 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2014-09-27 12:02:41+00:00
-layout: post
-link: http://www.academycircus.it/laboratorio-e-giocoleria-e-trampoli-foligno-2014/
-slug: laboratorio-e-giocoleria-e-trampoli-foligno-2014
 title: Academy Circus - Corso di Giocoleria 2014/2015
-wordpress_id: 780
+date: 2014-09-27 05:02:41 -07:00
 categories:
 - Corso di Giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/laboratorio-e-giocoleria-e-trampoli-foligno-2014/
+wordpress_id: 780
 ---
 
 ## Dal 7 Ottobre 2014 tutti i martedì e venerdì

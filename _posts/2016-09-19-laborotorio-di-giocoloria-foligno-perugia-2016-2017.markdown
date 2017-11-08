@@ -1,15 +1,15 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2016-09-20 00:12:02+00:00
-layout: post
 title: Giocoleria e Trampoli a Foligno (PG)
-subtitle: Laboratorio di giocoleria e trampoli dal 5 ottobre 2016
-fb-img: https://c2.staticflickr.com/6/5710/29746130192_3706e3f342_o.jpg
+date: 2016-09-19 17:12:02 -07:00
 categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+subtitle: Laboratorio di giocoleria e trampoli dal 5 ottobre 2016
+fb-img: https://c2.staticflickr.com/6/5710/29746130192_3706e3f342_o.jpg
 ---
 
 ## Che la giocoleria sia con te!

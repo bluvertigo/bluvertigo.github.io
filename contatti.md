@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Contatti
+layout: page
 subtitle: Laboratorio di giocoleria Academy Circus
 ---
+
 Il corso si svolge presso la *Casa Castellana* di Sant'Eraclio di Foligno (PG). La *Casa Castellana* è situata all'interno delle mura del castello di Sant'Eraclio.
 
 Ti aspettiamo dalle <strong>21.00</strong> alle<strong> 23.00</strong>. Dal 28 settembre 2017 fino a maggio 2018.

@@ -1,7 +1,8 @@
 ---
-layout: post
 title: To be
-subtitle: ... or not to be?
+date: 2015-02-13 00:00:00 -08:00
+layout: post
+subtitle: "... or not to be?"
 ---
 
 To be, or not to be--that is the question:

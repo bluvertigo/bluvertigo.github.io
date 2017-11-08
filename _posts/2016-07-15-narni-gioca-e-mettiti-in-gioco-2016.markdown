@@ -1,13 +1,13 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2016-07-15 12:12:02+00:00
-layout: post
 title: Gioca e Mettiti in Gioco 2016 - Narni
+date: 2016-07-15 05:12:02 -07:00
 categories:
 - Narni
 - Trampoli
 - Animazione
+author: andrea.gentili
+comments: false
+layout: post
 ---
 
 Venerdì 22 luglio prendremo parte all'edizione 2016 di [**"Gioca e Mettiti in Gioco"**](http://www.comune.narni.tr.it/NewsDettaglio.php?id=681){:target="_blank"}.

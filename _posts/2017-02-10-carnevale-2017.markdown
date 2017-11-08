@@ -1,14 +1,14 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2017-02-10 08:12:02+00:00
-layout: post
 title: Arriva il Carnevale 2017
-subtitle: la Susanna liberata
+date: 2017-02-10 00:12:02 -08:00
 categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+subtitle: la Susanna liberata
 ---
 
 <img src="http://www.ilcarnevale.net/wp-content/uploads/2015/08/castello-sant-eraclio.gif" class="center-block" />

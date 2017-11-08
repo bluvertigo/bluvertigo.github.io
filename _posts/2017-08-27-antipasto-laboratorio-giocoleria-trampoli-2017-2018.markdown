@@ -1,15 +1,16 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2017-08-27 08:12:02+00:00
-layout: post
 title: Sta per iniziare il Laboratorio di Giocoleria e Trampoli
-subtitle: Il laboratiorio iniza giovedì 28 settembre 2017
+date: 2017-08-27 01:12:02 -07:00
 categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+subtitle: Il laboratiorio iniza giovedì 28 settembre 2017
 ---
+
 <img src="{{ site.baseurl }}/img/animazione-agosto.jpg" />
 Stiamo per ricomincare...
 

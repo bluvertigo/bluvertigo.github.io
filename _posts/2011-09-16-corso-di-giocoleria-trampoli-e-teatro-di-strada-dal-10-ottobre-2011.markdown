@@ -1,12 +1,6 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2011-09-16 15:15:27+00:00
-layout: post
-link: http://www.academycircus.it/corso-di-giocoleria-trampoli-e-teatro-di-strada-dal-10-ottobre-2011/
-slug: corso-di-giocoleria-trampoli-e-teatro-di-strada-dal-10-ottobre-2011
 title: Corso di Giocoleria, Trampoli e Teatro di Strada dal 10 ottobre 2011
-wordpress_id: 79
+date: 2011-09-16 08:15:27 -07:00
 categories:
 - Corso di Giocoleria
 tags:
@@ -21,6 +15,11 @@ tags:
 - teatro di strada
 - Trampoli
 - Umbria
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/corso-di-giocoleria-trampoli-e-teatro-di-strada-dal-10-ottobre-2011/
+wordpress_id: 79
 ---
 
 Inizia il corso di giocoleria 2011 / 2012.

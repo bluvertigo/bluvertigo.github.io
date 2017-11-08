@@ -1,15 +1,14 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2012-03-22 08:33:31+00:00
-layout: post
-link: http://www.academycircus.it/laboratorio-di-giocoleria-e-movimento-a-foligno/
-slug: laboratorio-di-giocoleria-e-movimento-a-foligno
 title: Laboratorio di Giocoleria e Movimento a Foligno - 2012
-wordpress_id: 160
+date: 2012-03-22 01:33:31 -07:00
 categories:
 - News
 - Workshop
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/laboratorio-di-giocoleria-e-movimento-a-foligno/
+wordpress_id: 160
 ---
 
 E’ un laboratorio di ricerca individuale e di gruppo, che ci dà strumenti ed accorgimenti, per capire come unire tricks ai movimenti del corpo divertendoci migliorando la proprio modo di giocolare anche quando siamo fermi!

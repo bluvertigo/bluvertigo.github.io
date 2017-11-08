@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Laboratorio di Giocoleria e Trampoli 2017/2018
-subtitle: da giovedì 28 settembre 2017
-redirect_from: "/vieni-a-provare"
+date: 2017-09-07 00:00:00 -07:00
 categories:
 - Giocoleria
 - Trampoli
 - Corso di giocoleria
+layout: post
+subtitle: da giovedì 28 settembre 2017
+redirect_from: "/vieni-a-provare"
 fb-img: https://c1.staticflickr.com/5/4437/37283674821_52aa9a6159_o.jpg
 ---
 

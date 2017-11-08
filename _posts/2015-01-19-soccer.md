@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Soccer
+date: 2015-01-19 00:00:00 -08:00
+layout: post
 subtitle: Best sport ever!
 ---
 

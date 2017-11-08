@@ -1,14 +1,13 @@
 ---
-author: andrea.gentili
-comments: false
-date: 2013-10-15 15:54:44+00:00
-layout: post
-link: http://www.academycircus.it/giocoleria-teatro-di-strada-trampoli/
-slug: giocoleria-teatro-di-strada-trampoli
 title: Academy Circus - Corso di Giocoleria 2013/2014
-wordpress_id: 124
+date: 2013-10-15 08:54:44 -07:00
 categories:
 - Corso di Giocoleria
+author: andrea.gentili
+comments: false
+layout: post
+link: http://www.academycircus.it/giocoleria-teatro-di-strada-trampoli/
+wordpress_id: 124
 ---
 
 Inizia il corso di Giocoleria 2013 / 2014.

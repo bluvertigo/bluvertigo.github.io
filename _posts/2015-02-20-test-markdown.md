@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Test markdown
+date: 2015-02-20 00:00:00 -08:00
+layout: post
 subtitle: Each post also has a subtitle
 ---
 

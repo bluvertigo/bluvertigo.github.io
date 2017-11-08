@@ -1,6 +1,6 @@
 ---
-layout: page
 title: I Racconti del Castello
+layout: page
 subtitle: Domenica ore 15:30 al carnevale di Sant'Eraclio
 ---
 
