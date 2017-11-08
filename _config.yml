@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  spettacoli:
+    title: Spettacoli
+    output: true
   uploads:
     title: Uploads
     output: true
