@@ -1,6 +1,12 @@
 ---
 title: Laboratorio di Giocoleria a Gubbio
 date: 2017-11-13 00:36:00 -08:00
+categories:
+- Corso di Giocoleria
+- Giocoleria
+tags:
+- giocoleria
+layout: post
 ---
 
 Nei mesi di Novembre e Dicembre porteremo il laboratorio di Giocoleria a Gubbio.
