@@ -1,6 +1,6 @@
 ---
 title: Academy Circus
-timezone: America/Vancouver
+timezone: Europe/Rome
 collections:
   posts:
     title: Posts
@@ -24,7 +24,7 @@ defaults:
     layout: page
     show-avatar: true
 url: http://bluvertigo.github.io
-baseurl: ''
+baseurl: 
 description: Laboratorio di Giocoleria e Trampoli promosso dal “Carnevale” di S.Eraclio
 navbar-links:
   Home: index
