@@ -1,7 +1,6 @@
 ---
 title: Fremono i preparativi per il Carnevale 2018
 date: 2018-01-10 15:14:00 +01:00
-published: false
 ---
 
 Il carnevale 2018 sta per iniziare, quest'anno le tre domeniche saranno il 28 Gennaio e il 4 e 11 Febbraio.
