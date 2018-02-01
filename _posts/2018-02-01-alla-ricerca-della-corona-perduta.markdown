@@ -8,8 +8,8 @@ tags:
 - Carnevale di Sant'Eraclio
 - carnevale
 subtitle: I Racconti del Castello
-fb-img: 
-bigimg: "/uploads/racconti2.jpg"
+fb-img: "/uploads/racconti1.jpg"
+bigimg: "/uploads/racconti1.jpg"
 ---
 
 Domenica 28 gennaio, 4 e 11 febbraio 2018.
