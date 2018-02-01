@@ -10,7 +10,7 @@ tags:
 - carnevale
 subtitle: I Racconti del Castello
 fb-img: 
-bigimg: 
+bigimg: "/uploads/racconti2.jpg"
 ---
 
 Domenica 28 gennaio, 4 e 11 febbraio 2018.
