@@ -10,3 +10,14 @@ tags:
 - carnevale
 ---
 
+### I ragazzi dell'Academy Circus presentano: "I racconti del castello: Alla ricerca della corona perduta".
+
+![racconti2.jpg](/uploads/racconti2.jpg)
+
+Sinossi:
+La corona del re Ignazio I é stata rubata dalla perfida Lamia, il castello è perduto. Dei prodi piccoli cavalieri dovranno aiutare  il re a ritrovarla. Per poter festeggiare così il Carnevale.
+
+**Spettacolo itinerante con il coinvolgimento del pubblico per le vie del castello. Tra 
+giocoleria, danza aerea e perfidi mostri.**
+
+![racconti1.jpg](/uploads/racconti1.jpg)
