@@ -20,18 +20,3 @@ Ti aspettiamo dalle <strong>21.00</strong> alle<strong> 23.00</strong>. Dal 28 s
 <a href="http://apple.co/2cpnLk5" target="_blank"><img width="640" src="{{ site.baseurl }}/img/staticmap.png" alt="Google Map of Academy Circus Sant'Eraclio"></a>
 <br/>
 <small>Visualizza <a href="http://apple.co/2cpnLk5" style="color:#0000FF;text-align:left">Laboratorio di Giocoleria e Teatro di Strada</a> in una mappa di dimensioni maggiori</small>
-
-### Chiedi informazioni
-<form action="https://getsimpleform.com/messages?form_api_token=798b03d88970f0da61fc99425e9c583e" method="post">
-  <input type='hidden' name='redirect_to' value='http://academycircus.it/thank-you' />
-  <div class="form-group">
-    <input type="text" class="form-control" placeholder='Nome' id="name" name='name'>
-  </div>
-  <div class="form-group">
-    <input type="email" required  class="form-control" placeholder='Indirizzo Email' id="email" name='email'>
-  </div>
-  <div class="form-group">
-    <textarea id='message' name='message' placeholder='Messaggio' rows='8' cols='50'  class="form-control" ></textarea>
-  </div>
-  <button type="submit" class="btn btn-lg btn-default">Invia</button>
-</form>
