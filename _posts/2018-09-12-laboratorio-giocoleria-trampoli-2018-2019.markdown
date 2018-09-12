@@ -1,6 +1,6 @@
 ---
 title: Laboratorio di Giocoleria e Trampoli 2018/2098
-date: 2018-09-12 00:00:00 -07:00
+date: 2018-09-12 09:00:00 +02:00
 categories:
 - Giocoleria
 - Trampoli
