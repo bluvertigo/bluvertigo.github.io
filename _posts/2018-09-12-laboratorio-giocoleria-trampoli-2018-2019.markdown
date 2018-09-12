@@ -8,7 +8,7 @@ categories:
 layout: post
 subtitle: da giovedì 27 settembre 2018
 redirect_from: "/vieni-a-provare-2018"
-fb-img: https://c1.staticflickr.com/5/4437/37283674821_52aa9a6159_o.jpg
+fb-img: http://www.academycircus.it/img/dal-27-settembre-a-foligno.jpg
 ---
 
 ## Che la giocoleria sia con te!
