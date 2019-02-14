@@ -30,3 +30,5 @@ giocoleria, danza aerea e strani mostri.**
 
 ## Ti aspettiamo dalle 15:00 in poi
 ## Durante le 3 domeniche di Carnevale
+
+<a href="http://www.ilcarnevale.net" ><img src="{{ site.baseurl }}/uploads/slide-carnevale-2019.jpg" class="img-responsive" /></a>
