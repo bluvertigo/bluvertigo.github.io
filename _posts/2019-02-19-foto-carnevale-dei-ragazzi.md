@@ -13,7 +13,7 @@ layout: post-foto
   data-link="https://photos.app.goo.gl/UQtYtEQc6CobruTk9"
   data-title="La porta sui mondi - carnevale 2019"
   data-description="27 new photos · Album by Andrea Gentili"
-  data-background-color="#ffffff">
+  data-background-color="#000000">
   <img data-src="https://lh3.googleusercontent.com/3ilmGdcjTUre0Nd9WNvchcbXb1wJ4dpSCzZmvtJd_iNTxOVapCAMKeirhJx6wKiH02mOMCUMl9K2AVaZ1PU6eERd_n7YVmt7-L7BEthfVzJOe_OwvPcN6l5btkM_ig8G-7q2_tyxwAg=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/QyC2QQlgnchHqwu2l93QuPzeqiSvd7j3fzelPk82kTdnJN9HGVHRQtftB5FKshpL3RMF_7AFf6-ZgnMlQknzDzVZcyEcNu-7wuNMZa8lhUEnJteZ_8Qxy_-hJ36N95NGSUKiMo4ILco=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/d-WxeX1LKgS3Oo1yNplWzUGNBkGNBSXRGyZMGUnrZKW7_2LA_i97PwC6sfN8EC17GCYY8MBOMqhIx-aDruzRbhm8Zy3R7ei6fiA0cs9grU42r9K74OAQKSNBdWZenaARHSBocq-HEu0=w1920-h1080" src="" alt="" />
