@@ -8,7 +8,12 @@ bigimg:
 layout: post-foto
 ---
 
-<div>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/UQtYtEQc6CobruTk9"
+  data-title="La porta sui mondi - carnevale 2019"
+  data-description="27 new photos · Album by Andrea Gentili"
+  data-background-color="#ffffff">
   <img data-src="https://lh3.googleusercontent.com/3ilmGdcjTUre0Nd9WNvchcbXb1wJ4dpSCzZmvtJd_iNTxOVapCAMKeirhJx6wKiH02mOMCUMl9K2AVaZ1PU6eERd_n7YVmt7-L7BEthfVzJOe_OwvPcN6l5btkM_ig8G-7q2_tyxwAg=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/QyC2QQlgnchHqwu2l93QuPzeqiSvd7j3fzelPk82kTdnJN9HGVHRQtftB5FKshpL3RMF_7AFf6-ZgnMlQknzDzVZcyEcNu-7wuNMZa8lhUEnJteZ_8Qxy_-hJ36N95NGSUKiMo4ILco=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/d-WxeX1LKgS3Oo1yNplWzUGNBkGNBSXRGyZMGUnrZKW7_2LA_i97PwC6sfN8EC17GCYY8MBOMqhIx-aDruzRbhm8Zy3R7ei6fiA0cs9grU42r9K74OAQKSNBdWZenaARHSBocq-HEu0=w1920-h1080" src="" alt="" />
@@ -37,3 +42,4 @@ layout: post-foto
   <img data-src="https://lh3.googleusercontent.com/LloldxCuOz4Cc2q2xDGBEBxvQ6rsRzpfcG_M7Y4l-2CUFIUB1tOUQz1AZA1km8st7NmHUx5ZLbyYeC3NQmuriADY9OTMxhtThchoStZ53fDJ1Nqshj8bXuRqcD5eLU5pzWiJ5yH_q1c=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/DgS1-95qA73rd8xVuuiqagHlLIybSiWrknv7_a6DBYXThrPIvvpCY6qGqHRmAAtK5B-SDmd15rU0eW1OK5qOWglHVKo_lQxQEhKDVsGLWmhmgubcs_56iKoSLmvWejPfQlCnYFFD8so=w1920-h1080" src="" alt="" />
 </div>
+
