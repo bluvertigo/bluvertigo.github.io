@@ -7,6 +7,7 @@ subtitle: Laboratorio di Giocoleria e Trampoli promosso dal “Carnevale dei Rag
 
 <div class="posts-list">
   {% for post in paginator.posts %}
+  {% unless post.categories contains "notshowing"%}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2>
@@ -27,6 +28,7 @@ subtitle: Laboratorio di Giocoleria e Trampoli promosso dal “Carnevale dei Rag
     </div>
   
    </article>
+  {% endunless %}
   {% endfor %}
 </div>
 
