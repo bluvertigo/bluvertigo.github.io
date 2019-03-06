@@ -1,6 +1,6 @@
 ---
 title: Par Tot e Palio dei Trampoli
-date: 2011-08-01 00:00:00 -07:00
+date: 2011-08-01 09:00:00 +02:00
 categories:
 - foto
 - notshowing
