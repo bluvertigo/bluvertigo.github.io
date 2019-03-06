@@ -1,6 +1,6 @@
 ---
 title: Carnevale dei Ragazzi di Sant'Eraclio
-date: 2015-03-21 00:00:00 -07:00
+date: 2015-03-21 08:00:00 +01:00
 categories:
 - foto
 - notshowing
