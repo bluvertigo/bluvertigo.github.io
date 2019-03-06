@@ -3,6 +3,7 @@ title: Palio del Fantasma di Castel Ritaldi
 date: 2014-06-10 00:00:00 -07:00
 categories:
 - foto
+- notshowing
 layout: post-foto
 bigimg: https://farm4.staticflickr.com/3890/14583153768_781722bc0e_b.jpg
 ---
