@@ -3,6 +3,7 @@ title: La porta sui mondi - le foto
 date: 2019-02-19 18:00:00 +01:00
 categories:
 - foto
+- notshowing
 subtitle: Edizione 2019 del Carnevale di Sant’Eraclio
 bigimg: https://lh3.googleusercontent.com/IE4ylkUh6QiUKQpuD33wgy9lc97I47RNAlrJ71-1F6viWvRpuhf5Qs2dceOtZOIrVZ7_UhyuaATOsV-eKtCXKk1hANlPqgphVq6aEBl3uUvlFv5fiBMjc5NpKd3VuPaDkqTaHYCT-QM=w1920-h1080
 layout: post-foto
