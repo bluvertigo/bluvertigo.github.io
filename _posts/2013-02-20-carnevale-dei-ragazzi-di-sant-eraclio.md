@@ -1,6 +1,6 @@
 ---
 title: Carnevale dei Ragazzi di Sant'Eraclio
-date: 2013-02-20 00:00:00 -08:00
+date: 2013-02-20 09:00:00 +01:00
 categories:
 - foto
 - notshowing

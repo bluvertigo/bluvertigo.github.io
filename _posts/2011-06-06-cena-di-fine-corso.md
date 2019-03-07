@@ -1,6 +1,6 @@
 ---
 title: Cena di fine corso
-date: 2011-06-06 00:00:00 -07:00
+date: 2011-06-06 09:00:00 +02:00
 categories:
 - foto
 - notshowing

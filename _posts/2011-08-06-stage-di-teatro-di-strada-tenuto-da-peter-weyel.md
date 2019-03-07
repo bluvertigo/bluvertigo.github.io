@@ -1,6 +1,6 @@
 ---
 title: Stage di Teatro di Strada tenuto da Peter Weyel
-date: 2011-08-06 00:00:00 -07:00
+date: 2011-08-06 09:00:00 +02:00
 categories:
 - foto
 - notshowing
