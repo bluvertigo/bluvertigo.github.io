@@ -66,6 +66,7 @@ exclude:
 - README.md
 - CNAME
 - Vagrantfile
+- vendor
 prose:
   rooturl: _posts
   media: img
@@ -109,7 +110,7 @@ prose:
         element: checkbox
         label: Publish
         help: Check to publish post, uncheck to hide.
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-redirect-from
 whitelist:
