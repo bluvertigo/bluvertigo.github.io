@@ -3,6 +3,7 @@ title: Carnevale dei Ragazzi di Sant'Eraclio
 date: 2013-02-20 00:00:00 -08:00
 categories:
 - foto
+- notshowing
 layout: post-foto
 bigimg: https://farm8.staticflickr.com/7374/12854221933_a7f47a7e76_b.jpg
 ---
