@@ -1,6 +1,6 @@
 ---
 title: Palio dell’arrampicata – Gualdo Cattaneo
-date: 2011-08-12 00:00:00 -07:00
+date: 2011-08-12 09:00:00 +02:00
 categories:
 - foto
 - notshowing
