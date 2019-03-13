@@ -6,25 +6,26 @@ category: spettacoli
 ---
 
 <div class="container-fluid">
-	<div class="">
+	<div class="row">
 	  {% for post in site.posts %}
 		  {% if post.categories contains 'spettacoli' %}
-<div class="card card-default">
-
-  <a href="{{ post.url | prepend: site.baseurl }}" class="card-link">
-  	{% if post.bigimg %}
-    <span class="card-img">
-      <img src="{{ site.baseurl }}{{ post.bigimg }}" />
-    </span>
-    {% endif %}
-    <span class="card-body">
-      <span class="h3 heading">{{ post.title }}</span>
-      {% if post.subtitle %}
-      <p>{{ post.subtitle }}</p>
-      {% endif %}
-    </span>
-  </a>
-</div>
+      <div class="col-xs-12 col-md-6">
+          <div class="card card-default">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="card-link">
+            	{% if post.bigimg %}
+              <span class="card-img">
+                <img src="{{ site.baseurl }}{{ post.bigimg }}" />
+              </span>
+              {% endif %}
+              <span class="card-body">
+                <span class="h3 heading">{{ post.title }}</span>
+                {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+                {% endif %}
+              </span>
+            </a>
+          </div>
+        </div>
 		   {% endif %}
 	  {% endfor %}
 	</div>
