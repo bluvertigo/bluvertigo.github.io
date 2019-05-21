@@ -50,8 +50,7 @@ Per info e prenotazione scrivere a umberto.rosichetti@gmail.com oppure tramite W
 ---
 
 #### :man_cartwheeling: Insegnante
-*Umberto Rosichetti*
-nato in Italia nel 1983, formato nell'Atelier teatro fisico di Philip Radice a Torino nel 2013, dove studio' teatro fisico, mimica, dança, musica, acrobazia e giocoleria. Nel 2015 studio' Clownerie con Andre' Casaca (Brasile) in un corso intensivo, nella sede del Teatro C' Art, Castelfiorentino (FI).
+*Umberto Rosichetti* è nato in Italia nel 1983, formato nell'Atelier teatro fisico di Philip Radice a Torino nel 2013, dove studio' teatro fisico, mimica, dança, musica, acrobazia e giocoleria. Nel 2015 studio' Clownerie con Andre' Casaca (Brasile) in un corso intensivo, nella sede del Teatro C' Art, Castelfiorentino (FI).
 Tra 2010 e 2012 integro' la compagnia di teatro di figura e trampoli "ATMO PNT" con la quale viaggio' per l'europa con 5 diverse produzioni, totalizzando piu' di 200 spettacoli.
 Dal 2012 viaggia tra Italia e Brasile partecipando a vari festival di circo e teatro, presentando il suo spettacolo solo "Doisberto street show" in centri culturali, scuole e soprattutto piazze, accumulanto una esperienza di piu' di 800 repliche.
 
