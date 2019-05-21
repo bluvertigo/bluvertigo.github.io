@@ -10,7 +10,7 @@ tags:
 - Teatro di strada
 subtitle: La porta sui Mondi
 fb-img: "/uploads/umberto-cover.jpeg"
-bigimg: "/uploads/umberto-cover.jpeg"
+bigimg: "/uploads/umberto-cover-2.jpeg"
 ---
 
 # Workshop di Teatro Fisico "in strada"
