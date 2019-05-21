@@ -23,8 +23,6 @@ A partire da questi concetti e con esercizi di clownerie che stimolano il contat
 
 Alla fine del workshop chi lo desidera potrà provare la sua esibizione in strada.
 
-![Umberto Rosichetti Workshop Giocoleria](/uploads/umberto-volantino.jpeg)
-
 ### :circus_tent: Di cosa si necessita
 - E' necessario che i partecipanti abbiano una o piu' proposte artistiche, es: routine di giocoleria, coreografia di danza o acrobazia, numero di magia, stand-up comedy o una performance di arte scenica.
 - Vestiti comodi e idonei a attivita' fisica (pantaloni lunghi e maglia possibilmente neri).
