@@ -24,7 +24,6 @@ A partire da questi concetti e con esercizi di clownerie che stimolano il contat
 Alla fine del workshop chi lo desidera potrà provare la sua esibizione in strada.
 
 ![Umberto Rosichetti Workshop Giocoleria](/uploads/umberto-volantino.jpeg)
-Format: ![Alt Text](url)
 
 ### :circus_tent: Di cosa si necessita
 - E' necessario che i partecipanti abbiano una o piu' proposte artistiche, es: routine di giocoleria, coreografia di danza o acrobazia, numero di magia, stand-up comedy o una performance di arte scenica.
@@ -47,7 +46,6 @@ Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
 E’ necessario prenotarsi versando un acconto di 50€ non rimborsabile entro e non oltre lunedì 3 giugno.
 Per info e prenotazione scrivere a umberto.rosichetti@gmail.com oppure tramite Whatsapp o telefono ad Andrea 3409888686.
 ![Umberto Rosichetti Workshop Teatro Fisico](/uploads/umberto-gruppo.jpeg)
-Format: ![Alt Text](url)
 
 ---
 
@@ -58,4 +56,3 @@ Tra 2010 e 2012 integro' la compagnia di teatro di figura e trampoli "ATMO PNT" 
 Dal 2012 viaggia tra Italia e Brasile partecipando a vari festival di circo e teatro, presentando il suo spettacolo solo "Doisberto street show" in centri culturali, scuole e soprattutto piazze, accumulanto una esperienza di piu' di 800 repliche.
 
 ![Umberto Rosichetti](/uploads/umberto-cover.jpeg)
-Format: ![Alt Text](url)
