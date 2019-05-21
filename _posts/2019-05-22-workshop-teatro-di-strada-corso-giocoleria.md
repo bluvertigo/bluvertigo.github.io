@@ -19,7 +19,7 @@ Academy Circus organizza un workshop di Teatro di Strada presso il teatro parroc
 ### :circus_tent: A chi si rivolge
 Il workshop e' rivolto a chiunque voglia portare “in strada” la propria proposta artistica, propone la sperimentazione dei principali concetti del teatro fisico, come coscienza del movimento, relazione tra corpo e spazio, livelli di tensione e mimica. 
 
-A partire da questi concetti e con esercizi di clownerie che stimolano il contatto con il pubblico, i partecipanti saranno portati a identificare la logistica della propria performance, scegliere attrezzatura tecnica e trovare un modo efficace di passare il “cappello”. 
+A partire da questi concetti e con esercizi di clownerie che stimolano il contatto con il pubblico, i partecipanti saranno portati a identificare la struddura della propria performance, scegliere attrezzatura tecnica e trovare un modo efficace di passare il “cappello”. 
 
 Alla fine del workshop chi lo desidera potrà provare la sua esibizione in strada.
 
@@ -42,7 +42,7 @@ Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
 
 ### :circus_tent: Informazioni ed iscrizioni
 E’ necessario prenotarsi versando un acconto di 50€ non rimborsabile entro e non oltre lunedì 3 giugno.
-Per info e prenotazione scrivere a umberto.rosichetti@gmail.com oppure tramite Whatsapp o telefono ad Andrea 3409888686.
+Per info e prenotazione scrivere a [Dr. Ken Lunde](mailto:umberto.rosichetti@gmail.com?subject=[Workshop]%20Teatro%20Fisico) oppure tramite Whatsapp o telefono ad Andrea 3409888686.
 ![Umberto Rosichetti Workshop Teatro Fisico](/uploads/umberto-gruppo.jpeg)
 
 ---
