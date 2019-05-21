@@ -8,7 +8,7 @@ tags:
 - Giocoleria
 - Teatro
 - Teatro di strada
-subtitle: La porta sui Mondi
+subtitle: Condotto da Umberto Rosichetti
 fb-img: "/uploads/umberto-cover.jpeg"
 bigimg: "/uploads/umberto-cover-2.jpeg"
 ---
