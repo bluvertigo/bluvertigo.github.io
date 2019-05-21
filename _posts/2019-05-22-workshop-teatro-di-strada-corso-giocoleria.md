@@ -2,7 +2,7 @@
 title: Workshop di Teatro fisico "in strada"
 date: 2019-05-22 09:00:00 +01:00
 categories:
-- notshowing
+- News
 tags:
 - giocoleria
 - Giocoleria
