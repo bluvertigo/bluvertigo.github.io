@@ -42,7 +42,7 @@ Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
 
 ### :circus_tent: Informazioni ed iscrizioni
 E’ necessario prenotarsi versando un acconto di 50€ non rimborsabile entro e non oltre lunedì 3 giugno.
-Per info e prenotazione scrivere a [Dr. Ken Lunde](mailto:umberto.rosichetti@gmail.com?subject=[Workshop]%20Teatro%20Fisico) oppure tramite Whatsapp o telefono ad Andrea 3409888686.
+Per info e prenotazione scrivere a [Umberto Rosichetti](mailto:umberto.rosichetti@gmail.com?subject=[Workshop]%20Teatro%20Fisico) oppure tramite Whatsapp o telefono ad Andrea 3409888686.
 ![Umberto Rosichetti Workshop Teatro Fisico](/uploads/umberto-gruppo.jpeg)
 
 ---
