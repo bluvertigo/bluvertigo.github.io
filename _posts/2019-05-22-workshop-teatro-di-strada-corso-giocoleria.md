@@ -38,7 +38,7 @@ Giovedì 6 giugno: 19:00 - 22:00
 
 Venerdì 7 giugno: 19:00 - 22:00
 
-Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
+Domenica 9 giugno: 15:00 - 19:00 in piazza della repubblica a Foligno.
 
 ### :circus_tent: Costi
 110 € comprensivi di assicurazione e quota associativa.
