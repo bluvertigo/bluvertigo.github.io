@@ -33,8 +33,11 @@ Alla fine del workshop chi lo desidera potrà provare la sua esibizione in strad
 
 ### :circus_tent: Orario
 Mercoledì 5 giugno: 19:00 - 22:00
+
 Giovedì 6 giugno: 19:00 - 22:00
+
 Venerdì 7 giugno: 19:00 - 22:00
+
 Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
 
 ### :circus_tent: Costi
@@ -43,6 +46,7 @@ Domenica 9 giugno: 15:00 - 15:00 in piazza della repubblica a Foligno.
 ### :circus_tent: Informazioni ed iscrizioni
 E’ necessario prenotarsi versando un acconto di 50€ non rimborsabile entro e non oltre lunedì 3 giugno.
 Per info e prenotazione scrivere a [Umberto Rosichetti](mailto:umberto.rosichetti@gmail.com?subject=[Workshop]%20Teatro%20Fisico) oppure tramite Whatsapp o telefono ad Andrea 3409888686.
+
 ![Umberto Rosichetti Workshop Teatro Fisico](/uploads/umberto-gruppo.jpeg)
 
 ---
