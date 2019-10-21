@@ -1,6 +1,6 @@
 ---
 title: Laboratorio di Giocoleria e Trampoli
-date: 209-10-21 06:36:00 +01:00
+date: 2019-10-21 06:36:00 +01:00
 categories:
 - Corso di Giocoleria
 - Giocoleria
