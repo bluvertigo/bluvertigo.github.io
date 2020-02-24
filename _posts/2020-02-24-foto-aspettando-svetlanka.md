@@ -1,6 +1,6 @@
 ---
 title: Spettacolo Aspettando Svetlanka
-date: 2019-02-24 09:00:00 +01:00
+date: 2020-02-24 09:00:00 +01:00
 categories:
 - foto
 - notshowing
