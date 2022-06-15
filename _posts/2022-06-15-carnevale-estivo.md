@@ -1,6 +1,6 @@
 ---
 title: Edizione 2022 del Carnevale ESTIVO di Sant’Eraclio
-date: 2022-06-15 09:00:00 +01:00
+date: 2022-06-15 07:00:00 +01:00
 categories:
 - foto
 - notshowing
