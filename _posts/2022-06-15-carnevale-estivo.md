@@ -4,7 +4,7 @@ date: 2022-06-15 07:00:00 +01:00
 categories:
 - News
 subtitle: dal 19 al 26 giugno 2022
-bigimg: https://www.ilcarnevale.net/wp-content/uploads/2022/05/banner_2022.jpg
+bigimg: https://live.staticflickr.com/3901/32232143224_87c3038e96_b.jpg
 layout: post
 ---
 # Carnevale Estivo 2022
