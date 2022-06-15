@@ -8,7 +8,7 @@ subtitle: dal 19 al 26 giugno 2022
 bigimg: https://www.ilcarnevale.net/wp-content/uploads/2022/05/banner_2022.jpg
 layout: post
 ---
-
+# Carnevale Estivo 2022
 ## DAL 19 AL 26 GIUGNO
 
 Il Carnevale dei Ragazzi di Sant’Eraclio organizza un'edizione estiva della manifestazione
