@@ -1,10 +1,10 @@
 ---
-title: Carnevale Estivo - dal 19 al 26 giugno 2022
+title: Edizione 2022 del Carnevale ESTIVO di Sant’Eraclio
 date: 2022-06-15 09:00:00 +01:00
 categories:
 - foto
 - notshowing
-subtitle: Edizione 2022 del Carnevale ESTIVO di Sant’Eraclio
+subtitle: dal 19 al 26 giugno 2022
 bigimg: https://www.ilcarnevale.net/wp-content/uploads/2022/05/banner_2022.jpg
 layout: post
 ---
