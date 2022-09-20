@@ -1,7 +1,7 @@
 ---
 title: Contatti
 layout: page
-subtitle: Laboratorio di giocoleria Academy Circus
+subtitle: Laboratorio di giocoleria Academy Circus anno 2022/2023
 ---
 
 Il corso si svolge presso il CARTOON PARK di Sant'Eraclio.
