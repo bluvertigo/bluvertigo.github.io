@@ -4,18 +4,16 @@ layout: page
 subtitle: Laboratorio di giocoleria Academy Circus
 ---
 
-Il corso si svolge presso il teatro parrocchiale di Sant'Eraclio.
+Il corso si svolge presso il CARTOON PARK di Sant'Eraclio.
 
-Ti aspettiamo il *mercoledì* dalle *21.00* alle *23.00*. Da ottobre 2019 fino a marzo 2020.
+Ti aspettiamo da settembre 2022.
 
 
 ### Per informazioni e contatti:
 
-- Andrea 3409888686
-- Nicolò 3288737003
+- facebook.com/academycircus
+- instagram.com/academy_circus
 - info@academycircus.it
 
 ### Dove siamo
-Teatro parrocchiale di Sant'Eraclio
-
-<img src="{{ site.baseurl }}/img/teatro-parrochiale.png" class="img-responsive" />
+CARTOON PARK di Sant'Eraclio
