@@ -11,8 +11,8 @@ Ti aspettiamo da settembre 2022.
 
 ### Per informazioni e contatti:
 
-- facebook.com/academycircus
-- instagram.com/academy_circus
+- <a href="https://facebook.com/academycircus" target="_blank" >facebook.com/academycircus</a>
+- <a href="https://instagram.com/academy_circus" target="_blank" >instagram.com/academy_circus</a>
 - info@academycircus.it
 
 ### Dove siamo
