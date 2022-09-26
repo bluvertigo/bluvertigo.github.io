@@ -17,3 +17,5 @@ Ti aspettiamo da settembre 2022.
 
 ### Dove siamo
 CARTOON PARK di Sant'Eraclio
+
+<img src="{{ site.baseurl }}/uploads/aerea_2022.jpg" class="img-responsive" />
