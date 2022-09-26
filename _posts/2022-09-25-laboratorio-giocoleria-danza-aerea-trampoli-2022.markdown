@@ -7,7 +7,7 @@ categories:
 - Danza Aerea
 - Corso di giocoleria
 layout: post
-subtitle: da giovedì 28 settembre 2022
+subtitle: da giovedì 29 settembre 2022
 fb-img: http://www.academycircus.it/img/dal-28-settembre-a-foligno.jpg
 ---
 
@@ -24,7 +24,7 @@ L'idea alla base del laboratorio è che sia uno spazio libero dove allenarsi �
 👉 È aperto a che già sa fare qualcosa e ai principianti.
 
 ## Come fare per iscriversi?
-Basta venire da giovedì 28 settembre 2022 al CARTOON PARK di **Foligno**, gli incontri si terranno ogni **Giovedì** a partire dal **28 settembre 2022**.  
+Basta venire da giovedì 29 settembre 2022 al CARTOON PARK di **Foligno**, gli incontri si terranno ogni **Giovedì** a partire dal **29 settembre 2022**.  
 **Poi venire a fare una prova, senza impegno.**
 
 ## Dove siamo?
