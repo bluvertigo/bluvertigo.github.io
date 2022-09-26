@@ -1,5 +1,5 @@
 ---
-title: Laboratorio di Giocoleria, Danza Aerea e Trampoli 2018/2023
+title: Laboratorio di Giocoleria, Danza Aerea e Trampoli 2022/2023
 date: 2022-09-25 09:00:00 +02:00
 categories:
 - Giocoleria
