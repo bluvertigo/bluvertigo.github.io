@@ -18,7 +18,7 @@ L'idea alla base del laboratorio è che sia uno spazio libero dove allenarsi �
 
 ⏰ L'orario è dalle 21 alle 23, tutti i giovedì
 
-![Giocoleria Foligno 2019]({{ site.baseurl }}/img/dal-28-settembre-a-foligno.jpg)
+![Giocoleria Foligno 2022]({{ site.baseurl }}/img/dal-28-settembre-a-foligno.jpg)
 
 ## Requisiti
 👉 È aperto a che già sa fare qualcosa e ai principianti.
@@ -26,6 +26,8 @@ L'idea alla base del laboratorio è che sia uno spazio libero dove allenarsi �
 ## Come fare per iscriversi?
 Basta venire da giovedì 29 settembre 2022 al CARTOON PARK di **Foligno**, gli incontri si terranno ogni **Giovedì** a partire dal **29 settembre 2022**.  
 **Poi venire a fare una prova, senza impegno.**
+
+![Iscrizioni Volantino 2022]({{ site.baseurl }}/upload/volantino_2022_c.jpg)
 
 ## Dove siamo?
 Siamo a Foligno, in provincia di Perugia.  
