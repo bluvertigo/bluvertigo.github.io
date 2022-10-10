@@ -22,7 +22,7 @@ L'idea alla base del laboratorio è che sia uno spazio libero dove allenarsi �
 ![Giocoleria Foligno 2022]({{ site.baseurl }}/img/dal-28-settembre-a-foligno.jpg)
 
 ## Requisiti
-👉 È aperto a che già sa fare qualcosa e ai principianti.
+🎭 È aperto a che già sa fare qualcosa e ai principianti.
 
 ## Come fare per iscriversi?
 Basta venire da giovedì 29 settembre 2022 al CARTOON PARK di **Foligno**, gli incontri si terranno ogni **Giovedì** a partire dal **29 settembre 2022**.  
@@ -38,6 +38,6 @@ Per l'esattezza alla CARTOON PARK di Sant'Eraclio.
 
 ## Per informazioni
 
-- [Facebook "Academy Circus"](https://facebook.com/academycircus/){:target="_blank"}
-- [Instagram "academy_circus"](https://instagram.com/academy_circus/){:target="_blank"}
-- [Contattaci via email](mailto:info@academycircus.it)
+- 👉 [Facebook "Academy Circus"](https://facebook.com/academycircus/){:target="_blank"}
+- 👉 [Instagram "academy_circus"](https://instagram.com/academy_circus/){:target="_blank"}
+- 👉 [Contattaci via email](mailto:info@academycircus.it)
