@@ -38,6 +38,6 @@ Per l'esattezza alla CARTOON PARK di Sant'Eraclio.
 
 ## Per informazioni
 
-- facebook.com/academycircus
-- instagram.com/academy_circus
-- info@academycircus.it
+- [Facebook](https://facebook.com/academycircus/){:target="_blank"}
+- [Instagram](https://instagram.com/academy_circus/){:target="_blank"}
+- [Contattaci via email](mailto:info@academycircus.it)
