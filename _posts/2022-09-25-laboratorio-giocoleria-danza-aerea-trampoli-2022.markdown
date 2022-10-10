@@ -8,6 +8,7 @@ categories:
 - Corso di giocoleria
 layout: post
 subtitle: da giovedì 29 settembre 2022
+redirect_from: "/vieni-a-provare"
 fb-img: http://www.academycircus.it/img/dal-28-settembre-a-foligno.jpg
 ---
 
