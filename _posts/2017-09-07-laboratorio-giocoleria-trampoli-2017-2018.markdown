@@ -7,7 +7,6 @@ categories:
 - Corso di giocoleria
 layout: post
 subtitle: da giovedì 28 settembre 2017
-redirect_from: "/vieni-a-provare"
 fb-img: https://c1.staticflickr.com/5/4437/37283674821_52aa9a6159_o.jpg
 ---
 
