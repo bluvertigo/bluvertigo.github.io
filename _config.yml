@@ -51,7 +51,7 @@ copyright:
 - "<strong>Sede e Laboratorio allestimento carri:</strong>"
 - Via Londra, 1 - 06034 Sant'Eraclio / Foligno (PG)
 - C.F. 91000350545 - P.IVA 01824880544
-google_analytics: UA-21017670-4
+# google_analytics: UA-21017670-4
 markdown: kramdown
 highlighter: rouge
 permalink: "/:year-:month-:day-:title/"
