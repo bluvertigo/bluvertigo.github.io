@@ -9,6 +9,7 @@ categories:
 layout: post
 subtitle: 5, 12 e 19 febbraio 2023
 fb-img: http://www.academycircus.it/uploads/2023_nerocarbone.jpg
+img: http://www.academycircus.it/uploads/2023_nerocarbone.jpg
 ---
 
 ![Nerocarbone 2023]({{ site.baseurl }}/uploads/2023_nerocarbone.jpg)
