@@ -11,6 +11,8 @@ subtitle: 5, 12 e 19 febbraio 2023
 fb-img: 
 ---
 
+![Nerocarbone 2023]({{ site.baseurl }}/uploads/2023_nerocarbone.jpg)
+
 Stai cercando un'esperienza di spettacolo unica e coinvolgente? Allora Nerocarbone è lo spettacolo che fa per te! Questo spettacolo di strada unisce giocoleria, danza aerea, trampoli e teatro per creare un'avventura emozionante che incanterà il tuo cuore.
 
 I giocolieri e gli acrobati che eseguono le performance fanno parte del laboratorio di Academy Circus. I trampoli, le evoluzioni aeree e le abilità giocolieristiche ti lasceranno a bocca aperta e ti faranno vivere un'esperienza indimenticabile.
@@ -22,3 +24,5 @@ Se vuoi vivere un'esperienza unica e indimenticabile, non perdere lo spettacolo 
 Non perdere questa occasione unica di assistere allo spettacolo Nerocarbone.
 
 Ti aspettiamo a Sant'Eraclio, il 5, 12 e 19 febbraio, nelle 3 domeniche di Carnevale!
+
+![Carnevale 2023](https://www.ilcarnevale.net/wp-content/uploads/2023/01/banner_FB_2023-01-1020x360.jpg)
