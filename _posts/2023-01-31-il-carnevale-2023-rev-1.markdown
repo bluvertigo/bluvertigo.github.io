@@ -10,6 +10,7 @@ layout: post
 subtitle: Carnevale di Sant'Eraclio 5, 12 e 19 febbraio 2023
 fb-img: http://www.academycircus.it/uploads/2023_nerocarbone.jpg
 image: http://www.academycircus.it/uploads/2023_nerocarbone.jpg
+redirect_from: "/2023-01-31-il-carnevale-2023"
 ---
 
 ![Nerocarbone 2023]({{ site.baseurl }}/uploads/2023_nerocarbone.jpg)
