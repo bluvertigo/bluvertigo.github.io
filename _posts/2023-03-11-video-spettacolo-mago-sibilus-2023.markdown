@@ -12,7 +12,7 @@ fb-img: https://live.staticflickr.com/65535/52721869218_b2e90651ae_b.jpg
 image: https://live.staticflickr.com/65535/52721869218_b2e90651ae_b.jpg
 ---
 
-Revive la magia del carnevale con il nostro spettacolo!
+Revivete la magia del carnevale con il nostro spettacolo!
 
 Guarda ora il video completo della performance che hai perso durante l'ultimo carnevale e lasciati trasportare dagli incantesimi del "Mago Sibilus". 🎭🎉
 
