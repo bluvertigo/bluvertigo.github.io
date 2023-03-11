@@ -716,3 +716,8 @@ img.img-border {
 .card-price .buy-now{ text-transform: uppercase; }
 .card-price table .price{ font-size: 1.2em; font-weight: 700; text-align: left; }
 .card-price table .note{ color: #666; font-size: 0.8em; }
+
+#fix
+.blueimp-gallery > .slides > .slide {
+visibility: visible;
+}
