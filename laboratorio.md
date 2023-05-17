@@ -9,6 +9,8 @@ subtitle: Laboratorio di Giocoleria e Trampoli
 ## A Chi è rivolto
 🎭 È aperto a che già sa fare qualcosa e ai principianti.
 
+![Academy Circus]({{ site.baseurl }}/uploads/volantino-1.jpg)
+
 ## Come fare per iscriversi?
 Il laboratorio inizia a Settembre 2023.
 Per le date resta informato seguendoci su facebook/instagram.
@@ -19,3 +21,4 @@ Per le date resta informato seguendoci su facebook/instagram.
 Siamo a Foligno, in provincia di Perugia.  
 Per l'esattezza alla CARTOON PARK di Sant'Eraclio.
 
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/volantino-2.jpg)
