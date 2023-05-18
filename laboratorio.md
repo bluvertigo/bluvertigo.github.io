@@ -17,8 +17,10 @@ Per le date resta informato seguendoci su facebook/instagram.
 
 **Poi venire a fare una prova, senza impegno.**
 
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/volantino-2.jpg)
+
 ## Dove siamo?
 Siamo a Foligno, in provincia di Perugia.  
 Per l'esattezza alla CARTOON PARK di Sant'Eraclio.
 
-![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/volantino-2.jpg)
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/vieni-a-provare-2023.jpg)
