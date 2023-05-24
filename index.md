@@ -34,5 +34,8 @@ Il laboratorio ricomincia a settembre 2023. Seguici sui social per restare in co
 - Instagram: [@academy_circus](https://www.instagram.com/academy_circus)
 - Email: [info@academycircus.it](mailto:info@academycircus.it)
 
-<img src="{{ site.baseurl }}/uploads/aerea_2022.jpg" class="img-responsive" />
-<a href="https://goo.gl/maps/e9PteDhckBAVSefw8" target="_blank" class="btn btn-success btn-lg get-started-btn text-center" role="button">Indicazioni stradali</a>
+![Cartoon Park Mappa]({{ site.baseurl }}/uploads/aerea_2022.jpg)
+
+![Cartoon Park Mappa]({{ site.baseurl }}/uploads/mappa.png)
+
+
