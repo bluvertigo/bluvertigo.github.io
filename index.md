@@ -4,8 +4,8 @@ layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli 2022/2023
 ---
 <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg" 
-       srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg, 
-               {{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg 992w" 
+       srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg, 
+               {{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg 992w" 
        alt="Academy Circus">
 
 ## Benvenuti all'Academy Circus
