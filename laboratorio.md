@@ -3,9 +3,9 @@ title: Academy Circus 2023
 layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli
 ---
-
+<div class="visible-md visible-lg">
 ![Academy Circus]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg)
-
+</div>
 ### Laboratorioa di giocoleria
 
 ## A Chi è rivolto
