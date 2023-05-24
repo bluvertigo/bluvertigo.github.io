@@ -17,6 +17,8 @@ subtitle: Laboratorio di Giocoleria e Trampoli 2022/2023
 
 La giocoleria sembra una specialità che appartiene solo agli artisti circensi, ma in realtà è accessibile a tutti! Avvicinarsi alla giocoleria è facile, basta una pallina e la voglia di mettersi in gioco. Il laboratorio di giocoleria è un'occasione per avvicinarsi a questo meraviglioso mondo ed è un po' come tornare bambini, ogni volta si impara qualcosa di nuovo.
 
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
+
 ### Trova la tua passione nelle arti circensi
 
 Ma l'Academy Circus non si ferma alla giocoleria: i nostri corsi comprendono anche la danza aerea e i trampoli, per vivere un'esperienza unica e divertente aperta a principianti e professionisti di tutte le età. Camminare un metro da terra cambia ogni prospettiva: quando si indossa un paio di trampoli è impossibile passare inosservati. Il laboratorio è un'occasione per vincere le proprie paure e "re-imparare" a camminare!
@@ -32,8 +34,6 @@ Il laboratorio ricomincia a settembre 2023. Seguici sui social per restare in co
 - Facebook: [Academy Circus](https://www.facebook.com/AcademyCircus)
 - Instagram: [@academy_circus](https://www.instagram.com/academy_circus)
 - Email: [info@academycircus.it](mailto:info@academycircus.it)
-
-![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-tools.jpg)
 
 <img src="{{ site.baseurl }}/uploads/aerea_2022.jpg" class="img-responsive" />
 <a href="https://goo.gl/maps/e9PteDhckBAVSefw8" target="_blank" class="btn btn-success btn-lg get-started-btn text-center" role="button">Indicazioni stradali</a>
