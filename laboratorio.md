@@ -14,7 +14,6 @@ subtitle: Laboratorio di Giocoleria e Trampoli
 ## Laboratorio di Giocoleria, Danza Aerea e Trampoli
 
 🎭 Benvenuti all'Academy Circus, il luogo ideale per imparare e perfezionare le arti circensi attraverso laboratori di giocoleria, danza aerea e trampoli. Unisciti a noi per vivere un'esperienza unica e divertente, aperta a principianti e professionisti di tutte le età.
-![Academy Circus]({{ site.baseurl }}/uploads/volantino-1.jpg)
 
 ## Il nostro laboratorio
 L'Academy Circus offre un ambiente di apprendimento libero e creativo, in cui gli incontri si dividono tra una parte didattica, in cui gli esperti condividono le loro conoscenze, e una parte dedicata all'allenamento libero, per mettere in pratica ciò che è stato appreso.
