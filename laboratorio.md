@@ -5,8 +5,13 @@ subtitle: Laboratorio di Giocoleria e Trampoli
 ---
 
 <div class="visible-md visible-lg">
-  <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg" srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg 992w" alt="Academy Circus">
+  <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg" 
+       srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg 992w, 
+               {{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg" 
+       sizes="(min-width: 992px) 992px, 100vw" 
+       alt="Academy Circus">
 </div>
+
 
 
 ### Laboratorioa di giocoleria
