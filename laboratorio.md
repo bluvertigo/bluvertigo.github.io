@@ -4,12 +4,10 @@ layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli
 ---
 
-<div class="visible-md visible-lg">
   <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg" 
        srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg, 
                {{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg 992w" 
        alt="Academy Circus">
-</div>
 
 ## Laboratorio di Giocoleria, Danza Aerea e Trampoli
 
