@@ -12,27 +12,35 @@ subtitle: Laboratorio di Giocoleria e Trampoli
        alt="Academy Circus">
 </div>
 
-edit
+## Laboratorio di Giocoleria, Danza Aerea e Trampoli
 
-
-
-### Laboratorioa di giocoleria
-
-## A Chi è rivolto
-🎭 È aperto a che già sa fare qualcosa e ai principianti.
-
+🎭 Benvenuti all'Academy Circus, il luogo ideale per imparare e perfezionare le arti circensi attraverso laboratori di giocoleria, danza aerea e trampoli. Unisciti a noi per vivere un'esperienza unica e divertente, aperta a principianti e professionisti di tutte le età.
 ![Academy Circus]({{ site.baseurl }}/uploads/volantino-1.jpg)
 
-## Come fare per iscriversi?
-Il laboratorio inizia a Settembre 2023.
-Per le date resta informato seguendoci su facebook/instagram.
+## Il nostro laboratorio
+L'Academy Circus offre un ambiente di apprendimento libero e creativo, in cui gli incontri si dividono tra una parte didattica, in cui gli esperti condividono le loro conoscenze, e una parte dedicata all'allenamento libero, per mettere in pratica ciò che è stato appreso.
 
-**Poi venire a fare una prova, senza impegno.**
+Gli incontri si svolgono a cadenza settimanale dalle 21 alle 23, presso il CARTOON PARK di Foligno, in provincia di Perugia.
 
-![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/volantino-2.jpg)
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
 
-## Dove siamo?
-Siamo a Foligno, in provincia di Perugia.  
-Per l'esattezza alla CARTOON PARK di Sant'Eraclio.
 
-![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/vieni-a-provare-2023.jpg)
+## Requisiti
+- Aperto a chi già conosce le discipline e ai principianti
+- Abiti comodi
+- Voglia di divertirsi ed imparare
+
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-tools.jpg)
+
+## Come iscriversi?
+Il laboratorio ricomincia a settembre 2023.
+Seguici sui social per restare in contatto
+
+## Contatta l'Academy Circus
+Per ulteriori informazioni, non esitare a contattarci:
+
+- Facebook: [Academy Circus](https://www.facebook.com/AcademyCircus)
+- Instagram: [@academy_circus](https://www.instagram.com/academy_circus)
+- Email: [info@academycircus.it](mailto:info@academycircus.it)
+
+![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-last.jpg)
