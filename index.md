@@ -12,8 +12,7 @@ subtitle: Laboratorio di Giocoleria e Trampoli 2022/2023
   <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt.jpg" alt="Academy Circus">
 </picture>
 
-
-## Benvenuti all'Academy Circus
+# DA GIOVEDI' 7 SETTTEMBRE 2023
 
 🎭 Scopri il mondo della giocoleria, della danza aerea e dei trampoli all'Academy Circus! Il nostro laboratorio offre un ambiente di apprendimento libero e creativo per principianti e professionisti di tutte le età.
 
@@ -31,9 +30,26 @@ Non importa quale disciplina ti piaccia di più: la giocoleria, la danza aerea, 
 
 ![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-last.jpg)
 
+## Per Adulti e Bambini
+Quest'anno abbiamo deciso di raddoppiare il laboratorio di giocoleria e danza aerea, dividendo il corso in due: uno per gli adulti e uno per i bambini.
+
+### Adulti
+
+Allenamento libero per chi cerca uno spazio per allenarsi ed imparare cose nuove, aperto a tutti.
+
+- Lunedì dalle 20.30 alle 22.00
+- Giovedì dalle 21.00 alle 22.30
+
+### Bambini
+
+Il laboratorio per bambini è un percorso per imparare le basi della giocoleria e dalla danza aerea divertendosi.
+Per i bambini delle elementare e medie.
+
+- Giovedì dalle 20.30 alle 22.00
+
 ## Iscriviti al laboratorio
 
-Il laboratorio ricomincia a settembre 2023. Seguici sui social per restare in contatto e scoprire come iscriverti:
+Il laboratorio inizia giovedì 7 settembre 2023. Seguici sui social per restare in contatto.
 
 - Facebook: [Academy Circus](https://www.facebook.com/AcademyCircus)
 - Instagram: [@academy_circus](https://www.instagram.com/academy_circus)
