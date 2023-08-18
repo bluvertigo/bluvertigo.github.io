@@ -47,6 +47,8 @@ Per i bambini delle elementare e medie.
 
 - Giovedì dalle 20.30 alle 22.00
 
+<img src="{{ site.baseurl }}/uploads/Locandina2023_giocoleria_e_danza_aerea.jpg" alt="giocoleria e danza a aerea 2023 a foligno">
+
 ## Iscriviti al laboratorio
 
 Il laboratorio inizia giovedì 7 settembre 2023. Seguici sui social per restare in contatto.
