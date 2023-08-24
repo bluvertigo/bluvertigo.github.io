@@ -1,7 +1,7 @@
 ---
 title: Academy Circus
 layout: page
-subtitle: Laboratorio di Giocoleria e Trampoli 2022/2023
+subtitle: Giocoleria e Danza Aerea - Stagione 23/24
 ---
 <picture>
   <!-- Immagine per schermi fino a 991px -->
