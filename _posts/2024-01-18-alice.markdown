@@ -12,7 +12,7 @@ fb-img: "/uploads/un-viaggio-nel-paese-delle-meraviglie.jpg"
 bigimg: "/uploads/un-viaggio-nel-paese-delle-meraviglie.jpg"
 ---
 
-## I Racconti del Carnevale: Un Viaggio nel Paese delle Meraviglie
+## I Racconti del Castello: "Le Nuove avventure di Alice nel Paese delle Meraviglie"
 
 Sant'Eraclio si prepara a vivere tre domeniche di carnevale indimenticabili. Tra le numerose proposte, uno spettacolo unico cattura l'attenzione del pubblico: una magica fusione di giocoleria e danza aerea ispirata al celebre mondo di Alice nel Paese delle Meraviglie.
 
