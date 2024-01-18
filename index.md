@@ -3,6 +3,14 @@ title: Academy Circus
 layout: page
 subtitle: Giocoleria e Danza Aerea - Stagione 23/24
 ---
+# **Vi aspettiamo al Carnevale di Sant'Eraclio con il Nuovo Spettacolo di Alice! 🎭**
+
+Non perdere l'opportunità di partecipare al Carnevale di Sant'Eraclio e goditi il nostro nuovo spettacolo ispirato ad Alice nel Paese delle Meraviglie. [Scopri di più qui](https://www.academycircus.it/2024-01-18-alice/).
+
+![Locandina Carnevale 2024]({{ site.baseurl }}/uploads/2024-locandina.jpg)
+
+
+
 <picture>
   <!-- Immagine per schermi fino a 991px -->
   <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-fisrt-mobile.jpg" media="(max-width: 991px)">
