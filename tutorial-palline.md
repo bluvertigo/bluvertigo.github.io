@@ -4,9 +4,17 @@ layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli
 ---
 
-### Laboratorioa di giocoleria
+## Costruire le palline
 
-### Materiale da scaricare
+### Occorrente
+
+![occorrent](/uploads/occorrente.png){:class="img-responsive"}
+
+### Procedimento
+
+![come si fa](/uploads/come-01.png){:class="img-responsive"}
+
+![come si fa](/uploads/come-02.png){:class="img-responsive"}
 
 Qui sotto potete trovare una guida su come costruire le palline da giocoleria.
 ⬇️ [Giocoleria con le palline.][1]📄
