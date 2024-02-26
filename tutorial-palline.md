@@ -8,8 +8,6 @@ subtitle: Laboratorio di Giocoleria e Trampoli
 
 ### Materiale da scaricare
 
-Per chi ha partecipato al workshop di giocoleria con l'associazione OASI.
-
 Qui potete trovare del materiale da scaricare:
 
 ⬇️ [Giocoleria con le palline.][1]📄
