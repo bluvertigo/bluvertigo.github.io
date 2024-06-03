@@ -1,14 +1,16 @@
+---
 layout: post
 title: "Saggio di Giocoleria e Danza Aerea: Uno Spettacolo da Non Perdere"
 date: 2024-06-03 09:00:00 +01:00
 categories:
-
-    Eventi
-    tags:
-    giocoleria
-    danza aerea
-    fb-img: "/uploads/2024-saggio-giocoleria-danza.jpg"
-    bigimg: "/uploads/2024-saggio-giocoleria-danza.jpg"
+  - Carnevale
+tags:
+  - giocoleria
+  - danza aerea
+  - Saggio giocoleria e danza aerea
+fb-img: "/uploads/saggio-2024.jpg"
+bigimg: "/uploads/saggio-2024.jpg"
+---
 
 ## Un Saggio Indimenticabile di Giocoleria e Danza Aerea
 
