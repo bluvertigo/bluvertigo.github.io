@@ -3,11 +3,15 @@ title: Academy Circus
 layout: page
 subtitle: Giocoleria e Danza Aerea - Stagione 23/24
 ---
-# **Vi aspettiamo al Carnevale di Sant'Eraclio con il Nuovo Spettacolo di Alice! 🎭**
+# **Arriva il Saggio del Laboratorio di Giocoleria e Danza Aerea!  dell'anno accademico 23/24 🎭**
 
-Non perdere l'opportunità di partecipare al Carnevale di Sant'Eraclio e goditi il nostro nuovo spettacolo ispirato ad Alice nel Paese delle Meraviglie. [Scopri di più qui](https://www.academycircus.it/2024-01-18-alice/).
+Siamo lieti di annunciare che il saggio del nostro laboratorio di giocoleria e danza aerea si terrà sabato 8 giugno. Non perdete l'opportunità di assistere a uno spettacolo unico, frutto del talento e dell'impegno dei nostri allievi.
 
-![Locandina Carnevale 2024]({{ site.baseurl }}/uploads/2024-locandina.jpg)
+📅 Data: Sabato 8 giugno
+
+[Scopri di più qui](https://www.academycircus.it/2024-06-03-saggio/).
+
+![Saggio Giocoleria e Danza Aerea 2024]({{ site.baseurl }}/uploads/saggio-giocoleria-danza-aerea-2024.png)
 
 
 
