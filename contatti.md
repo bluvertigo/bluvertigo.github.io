@@ -1,12 +1,10 @@
 ---
 title: Contatti
 layout: page
-subtitle: Laboratorio di giocoleria Academy Circus anno 2022/2023
+subtitle: Laboratorio di giocoleria, danza aerea e trampoli Academy Circus
 ---
 
 Il corso si svolge presso il CARTOON PARK di Sant'Eraclio.
-
-Ti aspettiamo da settembre 2022.
 
 
 ### Per informazioni e contatti:

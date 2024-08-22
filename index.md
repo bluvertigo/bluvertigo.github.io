@@ -3,7 +3,7 @@ title: Academy Circus
 layout: page
 subtitle: Giocoleria e Danza Aerea - Stagione 24/25
 ---
-# ** E' sempre il momento giusto per iniziare! 🎭**
+# E' sempre il momento giusto per iniziare! 🎭
 
 Arriva settembre e ricomincia il Laboratorio di Giocoleria e Danza Aerea "Academy Circus"
 
