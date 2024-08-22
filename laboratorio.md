@@ -1,5 +1,5 @@
 ---
-title: Academy Circus 2023
+title: Academy Circus 2024/2025
 layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli
 ---
