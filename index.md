@@ -1,7 +1,7 @@
 ---
 title: Academy Circus
 layout: page
-subtitle: Giocoleria e Danza Aerea - Stagione 23/24
+subtitle: Giocoleria e Danza Aerea - Stagione 24/25
 ---
 # ** E' sempre il momento giusto per iniziare! 🎭**
 
