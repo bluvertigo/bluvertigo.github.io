@@ -57,7 +57,7 @@ Per i bambini delle elementare e medie.
 
 (inizio previsto fine settembre/inizio ottobre)
 
-<img src="{{ site.baseurl }}/uploads/Locandina2023_giocoleria_e_danza_aerea.jpg" alt="giocoleria e danza a aerea 2024 a foligno">
+<img src="{{ site.baseurl }}/uploads/Locandina2024_giocoleria_e_danza_aerea.jpg" alt="giocoleria e danza a aerea 2024 a foligno">
 
 ## Iscriviti al laboratorio
 
