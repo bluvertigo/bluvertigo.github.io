@@ -14,7 +14,7 @@ bigimg: "/uploads/header-sibilus.jpg"
 
 ## Un Pomeriggio Magico a Cave di Foligno
 
-Domenica 13 ottobre 2024, alle ore 16:00, la località di Cave di Foligno si trasformerà in un palcoscenico a cielo aperto per uno spettacolo di giocoleria e danza aerea. Gli artisti dell’Academy Circus, già noti per le loro esibizioni al Carnevale di Sant'Eraclio, torneranno a stupire il pubblico con un evento pieno di "magia" e acrobazie.
+Domenica 13 ottobre 2024, alle ore 16:00, la località di Cave di Foligno si trasformerà in un palcoscenico a cielo aperto per uno spettacolo di giocoleria e danza aerea. Gli artisti dell’Academy Circus, già noti per le loro esibizioni al Carnevale di Sant'Eraclio, torneranno a stupire il pubblico con un evento pieno di magia e acrobazie.
 
 ## Dettagli dell'Evento
 
