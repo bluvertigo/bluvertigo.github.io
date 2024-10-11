@@ -114,7 +114,6 @@ prose:
 plugins:
 - jekyll-paginate
 - jekyll-redirect-from
-- jekyll-youtube
 - jemoji
 whitelist:
 - jekyll-redirect-from
