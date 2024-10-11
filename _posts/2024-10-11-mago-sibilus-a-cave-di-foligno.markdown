@@ -24,5 +24,3 @@ Domenica 13 ottobre 2024, alle ore 16:00, la località di Cave di Foligno si tra
 - **Ingresso**: Gratuito
 
 Non mancate a questo spettacolo mozzafiato che unisce magia, movimento e arte in una cornice naturale suggestiva. Sarà un pomeriggio da ricordare!
-
-![Locandina Spettacolo Cave di Foligno](/uploads/2024-locandina-cave.jpg)
