@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spettacolo di Giocoleria e Danza Aerea a Cave di Foligno"
-date: 2024-10-13 16:00:00 +01:00
+date: 2024-10-11 16:00:00 +01:00
 categories:
   - Eventi
 tags:
