@@ -25,4 +25,6 @@ Domenica 13 ottobre 2024, alle ore 16:00, la località di Cave di Foligno si tra
 
 Non mancate a questo spettacolo mozzafiato che unisce magia, movimento e arte in una cornice naturale suggestiva. Sarà un pomeriggio da ricordare!
 
+### Video
+
 {% youtube "https://www.youtube.com/watch?v=XhVvQY-ExqU" %}
