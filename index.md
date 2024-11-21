@@ -55,7 +55,9 @@ DA SETTEMBRE 2024
 Il laboratorio per bambini è un percorso per imparare le basi della giocoleria e dalla danza aerea divertendosi.
 Per i bambini delle elementare e medie.
 
-(inizio previsto fine settembre/inizio ottobre)
+DA OTTOBRE 2024
+
+- Lunedì dalle 20.30 alle 22.00
 
 <img src="{{ site.baseurl }}/uploads/Locandina2024_giocoleria_e_danza_aerea.jpg" alt="giocoleria e danza a aerea 2024 a foligno">
 
