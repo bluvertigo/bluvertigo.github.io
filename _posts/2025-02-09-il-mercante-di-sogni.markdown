@@ -27,7 +27,7 @@ Lo spettacolo è un susseguirsi di emozioni e performance straordinarie:
 - **Danza aerea** con tessuti e trapezio, che sfidano la gravità con eleganza e forza.
 - **Giocoleria acrobatica**, con oggetti magici che sembrano prendere vita.
 - **Trampoli altissimi**, con Susanna, la ragazza dalle gambe più lunghe del mondo, che incanterà il pubblico con volteggi e movimenti impossibili.
-- **Interazioni comiche** con il pubblico, tra cui il rarissimo uccellino parlante Brigitta, che sogna di diventare un’influencer, e le bamboline meccaniche che danzano al ritmo della musica.
+- **Interazioni comiche** con il pubblico, tra cui il rarissimo uccellino parlante Brigitta, che sogna di diventare un’influencer, e i saltimbanco meccanici che faranno acrobazie di ogni sorta al ritmo della musica.
 
 ### Uno spettacolo per tutti
 
