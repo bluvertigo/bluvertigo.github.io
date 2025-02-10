@@ -8,7 +8,7 @@ tags:
   - giocoleria
   - danza aerea
   - trampoli
-fb-img: "/uploads/mercante-di-sogni.jpg"
+fb-img: "/uploads/fb-mercante-di-sogni.jpg"
 bigimg: "/uploads/mercante-di-sogni.jpg"
 ---
 
