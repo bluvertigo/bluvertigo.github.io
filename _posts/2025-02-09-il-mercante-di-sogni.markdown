@@ -38,7 +38,6 @@ Lo spettacolo è un susseguirsi di emozioni e performance straordinarie:
 - **Date**: Domenica 16 e 25 febbraio, e 2 marzo 2024.
 - **Orario**: A partire dalle 14:30, a oltranza.
 - **Luogo**: Piazza del Castello dei Trinci, Sant’Eraclio.
-- **Ingresso**: Libero e gratuito.
 
 Non perdete l’occasione di vivere un pomeriggio magico e divertente in compagnia del Mago Sibilus e della sua stravagante troupe. "Il Mercante di Sogni" vi aspetta per regalarvi emozioni uniche e farvi sognare a occhi aperti!
 
