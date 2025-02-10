@@ -42,3 +42,4 @@ Lo spettacolo è un susseguirsi di emozioni e performance straordinarie:
 Non perdete l’occasione di vivere un pomeriggio magico e divertente in compagnia del Mago Sibilus e della sua stravagante troupe. "Il Mercante di Sogni" vi aspetta per regalarvi emozioni uniche e farvi sognare a occhi aperti!
 
 ![Il Mercante di Sogni](/uploads/mercante-di-sogni-immagine.jpg)
+![Il Mercante di Sogni](/uploads/offerta.jpg)
