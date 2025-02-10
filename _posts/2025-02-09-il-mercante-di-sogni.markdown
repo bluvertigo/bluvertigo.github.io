@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il Mercante di Sogni: uno spettacolo di strada magico a Sant'Eraclio"
-date: 2024-02-10 09:00:00 +01:00
+date: 2025-02-10 09:00:00 +01:00
 categories:
   - Eventi
 tags:
