@@ -8,7 +8,6 @@ tags:
   - giocoleria
   - danza aerea
   - trampoli
-  - Sant'Eraclio
 fb-img: "/uploads/mercante-di-sogni.jpg"
 bigimg: "/uploads/mercante-di-sogni.jpg"
 ---
