@@ -44,7 +44,7 @@ Allenamento libero per chi cerca uno spazio per allenarsi ed imparare cose nuove
 
 DA SETTEMBRE 2025
 
-- Martedì dalle 20.00 alle 22.00
+- Lunedì dalle 20.00 alle 22.00
 - Giovedì dalle 20.00 alle 22.00
 
 ## Iscriviti al laboratorio
