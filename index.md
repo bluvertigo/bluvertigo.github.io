@@ -47,6 +47,8 @@ DA SETTEMBRE 2025
 - Lunedì dalle 20.00 alle 22.00
 - Giovedì dalle 20.00 alle 22.00
 
+![Academy Circus Locandina 2025-2026]({{ site.baseurl }}/uploads/locandina2526.jpg)
+
 ## Iscriviti al laboratorio
 
 Il laboratorio inizia a settembre 2025. Seguici sui social per restare in contatto.
