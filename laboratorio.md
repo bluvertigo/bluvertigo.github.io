@@ -1,15 +1,15 @@
 ---
-title: Academy Circus 2024/2025
+title: Academy Circus 2025/2026
 layout: page
 subtitle: Laboratorio di Giocoleria e Trampoli
 ---
 <picture>
   <!-- Immagine per schermi fino a 991px -->
-  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt-mobile.jpg" media="(max-width: 991px)">
+  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2025-mobile.jpg" media="(max-width: 991px)">
   <!-- Immagine per schermi da 992px in poi -->
-  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt.jpg" media="(min-width: 992px)">
+  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2025.jpg" media="(min-width: 992px)">
   <!-- Fallback per browser che non supportano i tag <picture> -->
-  <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt.jpg" alt="Academy Circus">
+  <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2025.jpg" alt="Academy Circus">
 </picture>
 
 ## Laboratorio di Giocoleria, Danza Aerea e Trampoli
@@ -21,7 +21,7 @@ L'Academy Circus offre un ambiente di apprendimento libero e creativo, in cui gl
 
 Gli incontri si svolgono a cadenza settimanale dalle 20:30 alle 22:00, presso il CARTOON PARK di Foligno, in provincia di Perugia.
 
-![Academy Circus Settembre 2023]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
+![Academy Circus Settembre 2025]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
 
 
 ## Requisiti
@@ -29,10 +29,10 @@ Gli incontri si svolgono a cadenza settimanale dalle 20:30 alle 22:00, presso il
 - Abiti comodi
 - Voglia di divertirsi ed imparare
 
-![Academy Circus Settembre 2024]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-tools.jpg)
+![Academy Circus Settembre 2025]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-tools.jpg)
 
 ## Come iscriversi?
-Il laboratorio ricomincia a settembre 2024.
+Il laboratorio ricomincia a settembre 2025.
 Seguici sui social per restare in contatto
 
 ## Contatta l'Academy Circus

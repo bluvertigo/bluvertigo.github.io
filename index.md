@@ -28,7 +28,7 @@ Arriva settembre e ricomincia il Laboratorio di Giocoleria e Danza Aerea "Academ
 
 La giocoleria sembra una specialità che appartiene solo agli artisti circensi, ma in realtà è accessibile a tutti! Avvicinarsi alla giocoleria è facile, basta una pallina e la voglia di mettersi in gioco. Il laboratorio di giocoleria è un'occasione per avvicinarsi a questo meraviglioso mondo ed è un po' come tornare bambini, ogni volta si impara qualcosa di nuovo.
 
-![Academy Circus Settembre 2024]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
+![Academy Circus Settembre 2025]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-cartoon-park.jpg)
 
 ### Trova la tua passione nelle arti circensi
 
@@ -36,7 +36,7 @@ Ma l'Academy Circus non si ferma alla giocoleria: i nostri corsi comprendono anc
 
 Non importa quale disciplina ti piaccia di più: la giocoleria, la danza aerea, i trampoli o altre ancora, l'Academy Circus ti offre la possibilità di trovare la tua passione e di coltivarla con passione e creatività. Il nostro ambiente di apprendimento libero e creativo ti permetterà di esplorare il tuo potenziale e di scoprire nuove abilità, in un'atmosfera accogliente e divertente.
 
-![Academy Circus Settembre 2024]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-last.jpg)
+![Academy Circus Settembre 2025]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-last.jpg)
 
 ### Adulti
 
