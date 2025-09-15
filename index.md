@@ -1,26 +1,26 @@
 ---
 title: Academy Circus
 layout: page
-subtitle: Giocoleria e Danza Aerea - Stagione 24/25
+subtitle: Giocoleria e Danza Aerea - Stagione 25/26
 ---
 # E' sempre il momento giusto per iniziare! 🎭
 
 Arriva settembre e ricomincia il Laboratorio di Giocoleria e Danza Aerea "Academy Circus"
 
-📅 Da martedì 3 settembre 2024
+📅 Da lunedì 22 settembre 2025
 
 [Scopri di più qui](https://www.academycircus.it).
 
 <picture>
   <!-- Immagine per schermi fino a 991px -->
-  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt-mobile.jpg" media="(max-width: 991px)">
+  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2025-mobile.jpg" media="(max-width: 991px)">
   <!-- Immagine per schermi da 992px in poi -->
-  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt.jpg" media="(min-width: 992px)">
+  <source srcset="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2025.jpg" media="(min-width: 992px)">
   <!-- Fallback per browser che non supportano i tag <picture> -->
   <img src="{{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2024-fisrt.jpg" alt="Academy Circus">
 </picture>
 
-# DA MARTEDI' 3 SETTTEMBRE 2024
+# DA LUNED&Igrave; 22 SETTTEMBRE 2025
 
 🎭 Scopri il mondo della giocoleria, della danza aerea e dei trampoli all'Academy Circus! Il nostro laboratorio offre un ambiente di apprendimento libero e creativo per principianti e professionisti di tutte le età.
 
@@ -38,32 +38,18 @@ Non importa quale disciplina ti piaccia di più: la giocoleria, la danza aerea, 
 
 ![Academy Circus Settembre 2024]({{ site.baseurl }}/uploads/laboratorio-corso-giocoleria-danza-aerea-2023-last.jpg)
 
-## Per Adulti e Bambini
-Quest'anno abbiamo deciso di raddoppiare il laboratorio di giocoleria e danza aerea, dividendo il corso in due: uno per gli adulti e uno per i bambini.
-
 ### Adulti
 
 Allenamento libero per chi cerca uno spazio per allenarsi ed imparare cose nuove, aperto a tutti.
 
-DA SETTEMBRE 2024
+DA SETTEMBRE 2025
 
-- Martedì dalle 20.30 alle 22.00
-- Giovedì dalle 20.30 alle 22.00
-
-### Bambini
-
-Il laboratorio per bambini è un percorso per imparare le basi della giocoleria e dalla danza aerea divertendosi.
-Per i bambini delle elementare e medie.
-
-DA OTTOBRE 2024
-
-- Lunedì dalle 20.30 alle 22.00
-
-<img src="{{ site.baseurl }}/uploads/Locandina2024_giocoleria_e_danza_aerea.jpg" alt="giocoleria e danza a aerea 2024 a foligno">
+- Martedì dalle 20.00 alle 22.00
+- Giovedì dalle 20.00 alle 22.00
 
 ## Iscriviti al laboratorio
 
-Il laboratorio inizia a settembre 2024. Seguici sui social per restare in contatto.
+Il laboratorio inizia a settembre 2025. Seguici sui social per restare in contatto.
 
 - Facebook: [Academy Circus](https://www.facebook.com/AcademyCircus)
 - Instagram: [@academy_circus](https://www.instagram.com/academy_circus)
