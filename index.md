@@ -44,8 +44,8 @@ Allenamento libero per chi cerca uno spazio per allenarsi ed imparare cose nuove
 
 DA SETTEMBRE 2026
 
-- Mercoledì dalle 20.00 alle 22.00
-- Venerdì dalle 20.00 alle 22.00
+- Mercoledì dalle 20.30 alle 22.00
+- Venerdì dalle 20.30 alle 22.00
 
 ![Academy Circus Locandina 2026-2027]({{ site.baseurl }}/uploads/locandina2627.jpg)
 
